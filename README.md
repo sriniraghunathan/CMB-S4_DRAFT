@@ -14,6 +14,10 @@ Overview:
 * Estimates biases in cosmological parameters due to residual foregrounds also using Fisher formalism.
   * References: Huterer & Takada 2004, arXiv: [0412142](https://arxiv.org/abs/astro-ph/0412142); Loverde, Hui, & Gaztanaga 2006, arXiv: [0611539](https://arxiv.org/abs/astro-ph/0611539); Amara & Réfrégier 2007, arXiv: [0710.5171](https://arxiv.org/abs/0710.5171).
 
+Contributors:
+=============================================== 
+[_Joel_ **Meyers**](https://joelmeyers.github.io/), [_Cynthia_ **Trendafilova**](https://github.com/ctrendafilova), and [_Benjamin_ **Wallisch**](https://www.ias.edu/scholars/benjamin-wallisch).
+
 Sub-modules and Dependencies:
 ===============================================
 1. CLASS_delens
@@ -47,7 +51,3 @@ Results:
      * Look into *read_file.py* script to read ILC curves. 
      * Standard ILC curves for S4-Wide (PBDR configuration) will be under this [link](https://github.com/sriniraghunathan/DRAFT/tree/master/results/20210506_with202102designtoolinputforpySM3sims_sedscalingfordust/s4like_mask_v2/TT-EE/baseline). 
      * Constrained ILC curves (for galactc dust) are also in the above folder. 
-
-Contributors:
-=============================================== 
-[_Joel_ **Meyers**](https://joelmeyers.github.io/), [_Cynthia_ **Trendafilova**](https://github.com/ctrendafilova), and [_Benjamin_ **Wallisch**](https://www.ias.edu/scholars/benjamin-wallisch).
