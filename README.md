@@ -1,7 +1,6 @@
 
 
-CMB-S4: Dark Radiation Anisotropy Flowdown Team (DRAFT) tool
-==============================================
+# CMB-S4: Dark Radiation Anisotropy Flowdown Team (DRAFT) tool
 
 Overview:
 ===============================================
