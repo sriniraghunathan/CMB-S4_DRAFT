@@ -26,18 +26,6 @@ def get_exp_specs(expname, remove_atm = False):
             }
 
     elif expname == 's4deep':
-        '''
-        specs_dic = {
-        #freq: [beam_arcmins, white_noise_T, elknee_T, alphaknee_T, whitenoise_P, elknee_P, alphaknee_P] 
-        #20: [10.0, None, None, None, None, None, None],
-        27: [7.4, 21.8, 471., 3.5, 30.8, 700, 1.4],
-        39: [5.1, 12.4, 428., 3.5, 17.6, 700, 1.4], 
-        93: [2.2, 0.48, 2154., 3.5, 0.68, 700, 1.4],
-        145: [1.4, 0.67, 4364., 3.5, 0.96, 700, 1.4],
-        225: [1.0, 4.04, 7334., 3.5, 5.72, 700, 1.4],
-        278: [0.9, 6.92, 7308., 3.5, 9.8, 700, 1.4],
-        }
-        '''
         #different 1/f noise definitions from S4V3R0, I think.
         specs_dic = {
         #freq: [beam_arcmins, white_noise_T, elknee_T, alphaknee_T, whitenoise_P, elknee_P, alphaknee_P] 
@@ -49,19 +37,6 @@ def get_exp_specs(expname, remove_atm = False):
         225: [1.0, 4.04, 2100., 4.1, 5.72, 700, 1.4],
         278: [0.9, 6.92, 2100., 3.9, 9.8, 700, 1.4],
         }
-
-        '''
-        specs_dic = {
-        #freq: [beam_arcmins, white_noise_T, elknee_T, alphaknee_T, whitenoise_P, elknee_P, alphaknee_P] 
-        #20: [10.0, None, None, None, None, None, None],
-        #27: [7.4, 21.8, 471., 3.5, 30.8, 700, 1.4],
-        #39: [5.1, 12.4, 428., 3.5, 17.6, 700, 1.4], 
-        93: [2.2, 0.48, 2154., 0., 0.68, 700, 1.4],
-        145: [1.4, 0.67, 4364., 0., 0.96, 700, 1.4],
-        225: [1.0, 4.04, 7334., 0., 5.72, 700, 1.4],
-        278: [0.9, 6.92, 7308., 0., 9.8, 700, 1.4],
-        }
-        '''
 
     elif expname == 's4deepv3r025':
         #https://cmb-s4.org/wiki/index.php/Delensing_sensitivity_-_updated_sensitivities,_beams,_TT_noise
