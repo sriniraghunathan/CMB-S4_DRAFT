@@ -4,7 +4,7 @@ import numpy
 import scipy
 import scipy.linalg
 
-import cambWrapTools
+#import cambWrapTools
 import classWrapTools
 
 # utilities for dictionaries

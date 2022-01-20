@@ -1,4 +1,3 @@
-from pylab import *
 import os, argparse, sys, numpy as np, scipy as sc, warnings, os
 sys.path.append('modules/')
 import flatsky, misc, exp_specs
@@ -10,6 +9,7 @@ parser.add_argument('-expname', dest='expname', action='store', help='expname', 
 parser.add_argument('-paramfile', dest='paramfile', action='store', help='paramfile', type=str, default='params.ini')
 parser.add_argument('-final_comp', dest='final_comp', action='store', help='final_comp in ILC', type=str, default='cmb')
 parser.add_argument('-opfname', dest='opfname', action='store', help='Output file name for ILC residuals', type=str, default=None)
+parser.add_argument('-show_plots', dest='show_plots', action='store', help='Display plots or no', type=bool, default=False)
 
 args = parser.parse_args()
 args_keys = args.__dict__
@@ -23,6 +23,8 @@ for kargs in args_keys:
 #import matplotlib.cbook
 warnings.filterwarnings('ignore',category=RuntimeWarning)
 
+if show_plots:
+    from pylab import *
 
 logline = '\nStart ILC calculation'
 print('%s' %(logline))
@@ -133,7 +135,7 @@ for TP in TParr:
                     
 #print(nl_dic['T'].keys())
 
-if (1):#get beam deconvolved noise nls 
+if show_plots:#get beam deconvolved noise nls 
     ax = subplot(111, yscale = 'log')
     for freq in freqarr:
         beamval, noiseval = beam_noise_dic[TP][freq]
@@ -163,7 +165,7 @@ logline = 'get beam bls'
 print('\t%s' %(logline))
 bl_dic = misc.get_beam_dic(freqarr, beam_noise_dic['T'], param_dict['lmax'])
 #print(bl_dic.keys())
-if (1):
+if show_plots:
     for freq in freqarr:
         plot(bl_dic[freq], label = freq, color = colordic[freq])
     legend(loc = 3, ncol = 3)
@@ -241,33 +243,33 @@ if (0):
 # In[15]:
 
 
-#plot weights
-clf()
-figure(figsize=(8, 3.5))
-xmin, xmax = param_dict['lmin']+10, param_dict['lmax']
-ymin, ymax = 1e-10,100.
+if show_plots: #plot weights
+    clf()
+    figure(figsize=(8, 3.5))
+    xmin, xmax = param_dict['lmin']+10, param_dict['lmax']
+    ymin, ymax = 1e-10,100.
 
-for cntr, which_spec in enumerate( which_spec_arr ):
-    ax = subplot(1,len(which_spec_arr),cntr+1)#, xscale = 'log')#, yscale = 'log')
+    for cntr, which_spec in enumerate( which_spec_arr ):
+        ax = subplot(1,len(which_spec_arr),cntr+1)#, xscale = 'log')#, yscale = 'log')
 
-    if which_spec == 'TE': continue
+        if which_spec == 'TE': continue
 
-    for frqcntr, freq in enumerate( freqarr ):
-        plot(weights_dic[which_spec][frqcntr], color = colordic[freq], label = r'%s' %(freq), lw = 1.)
-    plot(np.sum(weights_dic[which_spec], axis = 0), 'k--', label = r'Sum', lw = 1.)
-    axhline(lw=0.3);
-    xlabel(r'Multipole $\ell$');
-    #setp(ax.get_xticklabels(which = 'both'), visible=False)
-    if cntr == 0:
-        ylabel(r'Weight $W_{\ell}$')
-        legend(loc = 1, fontsize = 8, ncol = 4, handlelength = 2., handletextpad = 0.1)
-    else:
-        setp(ax.get_yticklabels(which = 'both'), visible=False)
-    ylim(-2., 3.);
-    xlim(xmin, xmax);
+        for frqcntr, freq in enumerate( freqarr ):
+            plot(weights_dic[which_spec][frqcntr], color = colordic[freq], label = r'%s' %(freq), lw = 1.)
+        plot(np.sum(weights_dic[which_spec], axis = 0), 'k--', label = r'Sum', lw = 1.)
+        axhline(lw=0.3);
+        xlabel(r'Multipole $\ell$');
+        #setp(ax.get_xticklabels(which = 'both'), visible=False)
+        if cntr == 0:
+            ylabel(r'Weight $W_{\ell}$')
+            legend(loc = 1, fontsize = 8, ncol = 4, handlelength = 2., handletextpad = 0.1)
+        else:
+            setp(ax.get_yticklabels(which = 'both'), visible=False)
+        ylim(-2., 3.);
+        xlim(xmin, xmax);
 
-    title(r'%s: %s' %(which_spec, expname))
-show()
+        title(r'%s: %s' %(which_spec, expname))
+    show()
 
 
 # ## plot ILC residuals (and compare with individual N$_{\ell}$)
@@ -293,47 +295,48 @@ cl_camb *= 1e12
 cl_TT, cl_EE, cl_BB, cl_TE = cl_camb.T
 cl_cmb_dic = {'TT': cl_TT, 'EE': cl_EE, 'BB': cl_BB, 'TE': cl_TE}
 
-clf();
-figure(figsize=(8, 3.5))
-xmin, xmax = param_dict['lmin']+10, param_dict['lmax']
-ymin, ymax = 1e-10,100.
+if show_plots:
+    clf();
+    figure(figsize=(8, 3.5))
+    xmin, xmax = param_dict['lmin']+10, param_dict['lmax']
+    ymin, ymax = 1e-10,100.
 
-for cntr, which_spec in enumerate( which_spec_arr ):
-    ax = subplot(1, len(which_spec_arr), cntr+1, yscale = 'log')#, xscale = 'log')
-    plot(el, cl_residual[which_spec], 'black', lw = 1., label = r'Residual')
-    if include_gal: #show gal residuals here as well
-        plot(el, fg_res_dic[which_spec]['galdust'], 'purple', lw = 1., label = r'Residual gal dust')
+    for cntr, which_spec in enumerate( which_spec_arr ):
+        ax = subplot(1, len(which_spec_arr), cntr+1, yscale = 'log')#, xscale = 'log')
+        plot(el, cl_residual[which_spec], 'black', lw = 1., label = r'Residual')
+        if include_gal: #show gal residuals here as well
+            plot(el, fg_res_dic[which_spec]['galdust'], 'purple', lw = 1., label = r'Residual gal dust')
 
-    plot(el_camb, cl_cmb_dic[which_spec], 'gray', ls = '-', lw = 1., label = r'C$_{\ell}^{\rm %s}$' %(which_spec))        
-    if which_spec == 'TE':
-        plot(el_camb, abs( cl_cmb_dic['TE'] ), 'gray', ls = '--', lw = 0.5) 
+        plot(el_camb, cl_cmb_dic[which_spec], 'gray', ls = '-', lw = 1., label = r'C$_{\ell}^{\rm %s}$' %(which_spec))        
+        if which_spec == 'TE':
+            plot(el_camb, abs( cl_cmb_dic['TE'] ), 'gray', ls = '--', lw = 0.5) 
 
-    if (1): #show MV nl for reference.
-        mv_comb_arr = []
-        for freq in freqarr:
-            if which_spec == 'TT':
-                nl = nl_dic['T'][(freq, freq)]
-            elif which_spec == 'EE' or which_spec == 'BB':
-                nl = nl_dic['P'][(freq, freq)]
-            elif which_spec == 'TE':
-                nl = nl_dic['T'][(freq, freq)] * 0.
-            plot(el, nl, color = colordic[freq], lw = 0.5, ls = '-', label = r'Noise: %s' %(freq))#, alpha = 0.5)
-            mv_comb_arr.append(1./nl)
-        mv_comb = 1./(np.sum(mv_comb_arr, axis = 0))
-        plot(el, mv_comb, 'lime', ls = '--', lw = 1., label = r'MV noise')
+        if (1): #show MV nl for reference.
+            mv_comb_arr = []
+            for freq in freqarr:
+                if which_spec == 'TT':
+                    nl = nl_dic['T'][(freq, freq)]
+                elif which_spec == 'EE' or which_spec == 'BB':
+                    nl = nl_dic['P'][(freq, freq)]
+                elif which_spec == 'TE':
+                    nl = nl_dic['T'][(freq, freq)] * 0.
+                plot(el, nl, color = colordic[freq], lw = 0.5, ls = '-', label = r'Noise: %s' %(freq))#, alpha = 0.5)
+                mv_comb_arr.append(1./nl)
+            mv_comb = 1./(np.sum(mv_comb_arr, axis = 0))
+            plot(el, mv_comb, 'lime', ls = '--', lw = 1., label = r'MV noise')
+            
+
+        xlim(xmin, xmax);
+        ylim(ymin, ymax);
+        xlabel(r'Multipole $\ell$')
+        if cntr == 0: 
+            ylabel(r'$C_{\ell}$ [$\mu$K$^{2}$]')
+            legend(loc = 1, fontsize = 8, ncol = 2)
+        else:
+            setp(ax.get_yticklabels(which = 'both'), visible=False)
         
-
-    xlim(xmin, xmax);
-    ylim(ymin, ymax);
-    xlabel(r'Multipole $\ell$')
-    if cntr == 0: 
-        ylabel(r'$C_{\ell}$ [$\mu$K$^{2}$]')
-        legend(loc = 1, fontsize = 8, ncol = 2)
-    else:
-        setp(ax.get_yticklabels(which = 'both'), visible=False)
-    
-    title(r'%s: %s' %(which_spec, expname))
-show()
+        title(r'%s: %s' %(which_spec, expname))
+    show()
 
 
 # In[14]:
@@ -418,6 +421,8 @@ opdic['param_dict'] = param_dict
 #opdic['nl_dic'] = nl_dic
 opdic['beam_noise_dic'] = beam_noise_dic
 opdic['elknee_dic'] = elknee_dic
+op_folder = '/'.join(opfname.split('/')[:-1])
+if not os.path.exists(op_folder): os.system('mkdir -p %s' %(op_folder))
 np.save(opfname, opdic)
 logline = 'All done - check %s for ILC residuals' %(opfname)
 print('%s\n' %(logline))
