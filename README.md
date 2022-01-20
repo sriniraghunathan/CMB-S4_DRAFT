@@ -40,11 +40,19 @@ Cloning/CLASS installation:
 
 Steps to run the code:
 ===============================================
- 1. [ilc code example notebook](https://github.com/sriniraghunathan/CMB-S4_DRAFT/blob/main/get_ilc_weights_and_residuals.ipynb)
- 2. 
+ #### Parent script: [perform_forecasts](https://github.com/sriniraghunathan/CMB-S4_DRAFT/blob/main/perform_forecasts.ipynb) and this consists of two parts which can be run seprately as well. 
+ 
+   1. ILC code: ```python3 get_ilc_weights_and_residuals.py -opfname results//s4_cmb_ilc.npy``` or look into this [ilc code example notebook](https://github.com/sriniraghunathan/CMB-S4_DRAFT/blob/main/notebooks/get_ilc_weights_and_residuals.ipynb)
+   2. Delensing + Fisher code (and this uses the outout from the previous step): ```python3 get_fisher_withdelensing.py -ilc_fname results//s4_cmb_ilc.npy -opfname results//s4_cmb_fisher.npy```
 
 ---------
+Results:
+===============================================
+* Results are stored within [results](https://github.com/sriniraghunathan/CMB-S4_DRAFT/tree/main/results) folder. 
+ * Look into (read_ilc.py)[https://github.com/sriniraghunathan/CMB-S4_DRAFT/tree/main/results/read_ilc.py] to read the ILC residuals.
+ * Look into [perform_forecasts](https://github.com/sriniraghunathan/CMB-S4_DRAFT/blob/main/perform_forecasts.ipynb) to read the Fisher matrices.
 
+---------
 Contributors:
 =============================================== 
 [_Joel_ **Meyers**](https://joelmeyers.github.io/), [_Cynthia_ **Trendafilova**](https://github.com/ctrendafilova), and [_Benjamin_ **Wallisch**](https://www.ias.edu/scholars/benjamin-wallisch).
@@ -64,13 +72,4 @@ Foreground modelling:
 * **Extragalactic foregrounds**: Radio, CIB, tSZ and  kSZ power spectra from SPT measurements (George et al. 2015, arXiv: [1408.3161](https://arxiv.org/abs/1408.3161) and Reichardt et al. 2020, arXiv: [2002.06197](https://arxiv.org/abs/2002.06197)).
   * Assumed polarisation fractions: CIB = 2%; Radio = 3%; tSZ/kSZ = 0. But these are configurable. Look into [params.ini](https://github.com/sriniraghunathan/DRAFT/blob/master/scripts/notebooks/params.ini).
 * **Galactic foregrounds**: Dust and Synchrotron power spectra obtained from [pySM3](https://github.com/CMB-S4/s4mapbasedsims/tree/master/202002_foregrounds_extragalactic_cmb_tophat) simulations.
----------
-
-Results:
-===============================================
-* **ILC curves**:
-  * Look into this [link](https://github.com/sriniraghunathan/DRAFT/tree/master/results/20210506_with202102designtoolinputforpySM3sims_sedscalingfordust/). 
-     * Look into *read_file.py* script to read ILC curves. 
-     * Standard ILC curves for S4-Wide (PBDR configuration) will be under this [link](https://github.com/sriniraghunathan/DRAFT/tree/master/results/20210506_with202102designtoolinputforpySM3sims_sedscalingfordust/s4like_mask_v2/TT-EE/baseline). 
-     * Constrained ILC curves (for galactc dust) are also in the above folder. 
 ---------
