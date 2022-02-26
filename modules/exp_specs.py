@@ -2,7 +2,8 @@ import numpy as np
 
 def get_exp_specs(expname, remove_atm = False):
 
-    if expname == 's4wide' or expname == 's4wide_scaled_sobaseline' or expname == 's4wide_scaled_aso' or expname == 's4wide_single_chlat' or expname == 's4wide_single_chlat_plus_aso':
+    #if expname == 's4wide' or expname == 's4wide_scaled_sobaseline' or expname == 's4wide_scaled_aso' or expname == 's4wide_single_chlat' or expname == 's4wide_single_chlat_plus_aso':
+    if expname == 's4wide' or expname.find('s4wide_scaled')>-1 or expname.find('s4wide_single_')>-1:
 
         specs_dic = {
         #freq: [beam_arcmins, white_noise_T, elknee_T, alphaknee_T, whitenoise_P, elknee_P, alphaknee_P] 
@@ -26,23 +27,21 @@ def get_exp_specs(expname, remove_atm = False):
             }
 
             #20220222 - modify S4 noise levels based on S4/SO detector scalings
-            scaling_factors = np.asarray( [1., 1., 1., 1., 1., 1.] )
             if expname == 's4wide_scaled_sobaseline':
                 scaling_factors = np.sqrt( 2. ) * np.sqrt( [3.1, 3.1, 2.6*2., 2.5*2., 2.0*2., 1.8*2.] )
-            elif expname == 's4wide_scaled_aso':
+            elif expname == 's4wide_scaled_aso' or expname == 's4wide_scaled_aso_plus_fulls4scaledsobaseline':
                 scaling_factors = np.sqrt( 2. ) * np.sqrt( [3.1, 3.1, 2.6, 2.5, 2.0, 1.8] )
             elif expname == 's4wide_single_chlat':
-                scaling_factors = scaling_factors * np.sqrt( 2. )
-            elif expname == 's4wide_single_chlat_plus_aso':
+                scaling_factors = np.sqrt( 2. ) * np.sqrt( [1., 1., 1., 1., 1., 1.] )
+            elif expname == 's4wide_single_chlat_plus_aso' or expname == 's4wide_single_chlat_plus_aso_plus_fulls4scaledsobaseline':
                 scaling_factors_1 = np.sqrt( 2. ) * np.sqrt( [1., 1., 1., 1., 1., 1.] ) #single ch-lat
                 scaling_factors_2 = np.sqrt( 2. ) * np.sqrt( [3.1, 3.1, 2.6, 2.5, 2.0, 1.8] ) #advanced-SO
+            elif expname == 's4wide' or expname == 's4wide_plus_fulls4scaledsobaseline':
+                scaling_factors = np.asarray( [1., 1., 1., 1., 1., 1.] )
+            
 
             specs_dic_ori = copy.deepcopy(specs_dic)
-            if expname != 's4wide_single_chlat_plus_aso':
-                for nucntr, nu in enumerate( specs_dic ):
-                    specs_dic[nu][1] *= scaling_factors[nucntr]
-                    specs_dic[nu][4] *= scaling_factors[nucntr]
-            else:
+            if expname == 's4wide_single_chlat_plus_aso' or expname == 's4wide_single_chlat_plus_aso_plus_fulls4scaledsobaseline':
                 for nucntr, nu in enumerate( specs_dic ):
                     delta_t_1 = specs_dic[nu][1] * scaling_factors_1[nucntr]
                     delta_t_2 = specs_dic[nu][1] * scaling_factors_2[nucntr]
@@ -55,6 +54,10 @@ def get_exp_specs(expname, remove_atm = False):
 
                     specs_dic[nu][1] = delta_t
                     specs_dic[nu][4] = delta_p
+            else:
+                for nucntr, nu in enumerate( specs_dic ):
+                    specs_dic[nu][1] *= scaling_factors[nucntr]
+                    specs_dic[nu][4] *= scaling_factors[nucntr]                
             #20220222 - modify S4 noise levels based on S4/SO detector scalings
 
     elif expname == 's4deep':
