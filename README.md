@@ -20,6 +20,7 @@ Dependencies:
 https://github.com/selimhotinli/class_delens
 
 This code uses a wrapper for the CLASS_delens code to facilitate Fisher forecasting of cosmological parameter constraints from CMB spectra.
+
 Authors: Selim C. Hotinli, Joel Meyers, Cynthia Trendafilova, Daniel Green, Alexander van Engelen
 
 2. xxxx
