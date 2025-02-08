@@ -1,0 +1,2522 @@
+Calculating cmb temperature noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_temp_noise.dat  
+Calculating cmb polariztion noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_pol_noise.dat  
+Will calculate lensing reconstruction noise spectra estimate from lensed CMB spectra a la astro-ph/0301031.
+Using CMB spectra calculated by CLASS.
+Using *lensed* CMB spectra calculated by CLASS.
+Done calculating lensing.
+Calculating the delensed spectra.
+[DEBUG] (Total) convergence ratio: multipole(l)-sum of (N_l[i+1]-N_l[i])/N_l[i]=0.000000e+00 for iteration i=0
+[DEBUG] N_l is minimum-variance lensing noise reconstruction spectrum
+[DEBUG] (Total) convergence ratio: multipole(l)-sum of (N_l[i+1]-N_l[i])/N_l[i]=4.468026e+03 for iteration i=1
+[DEBUG] (Total) convergence ratio: multipole(l)-sum of (N_l[i+1]-N_l[i])/N_l[i]=1.126963e+03 for iteration i=2
+[DEBUG] (Total) convergence ratio: multipole(l)-sum of (N_l[i+1]-N_l[i])/N_l[i]=3.404623e+02 for iteration i=3
+[DEBUG] (Total) convergence ratio: multipole(l)-sum of (N_l[i+1]-N_l[i])/N_l[i]=1.059699e+02 for iteration i=4
+[DEBUG] (Total) convergence ratio: multipole(l)-sum of (N_l[i+1]-N_l[i])/N_l[i]=3.324684e+01 for iteration i=5
+[DEBUG] (Total) convergence ratio: multipole(l)-sum of (N_l[i+1]-N_l[i])/N_l[i]=1.045650e+01 for iteration i=6
+[DEBUG] (Total) convergence ratio: multipole(l)-sum of (N_l[i+1]-N_l[i])/N_l[i]=3.291242e+00 for iteration i=7
+[DEBUG] (Total) convergence ratio: multipole(l)-sum of (N_l[i+1]-N_l[i])/N_l[i]=1.036192e+00 for iteration i=8
+[DEBUG] (Total) convergence ratio: multipole(l)-sum of (N_l[i+1]-N_l[i])/N_l[i]=3.262528e-01 for iteration i=9
+[DEBUG] (Total) convergence ratio: multipole(l)-sum of (N_l[i+1]-N_l[i])/N_l[i]=1.027257e-01 for iteration i=10
+[DEBUG] (Total) convergence ratio: multipole(l)-sum of (N_l[i+1]-N_l[i])/N_l[i]=3.234496e-02 for iteration i=11
+[DEBUG] (Total) convergence ratio: multipole(l)-sum of (N_l[i+1]-N_l[i])/N_l[i]=1.018441e-02 for iteration i=12
+[DEBUG] (Total) convergence ratio: multipole(l)-sum of (N_l[i+1]-N_l[i])/N_l[i]=3.206757e-03 for iteration i=13
+[DEBUG] (Total) convergence ratio: multipole(l)-sum of (N_l[i+1]-N_l[i])/N_l[i]=1.009698e-03 for iteration i=14
+[DEBUG] (Total) convergence ratio: multipole(l)-sum of (N_l[i+1]-N_l[i])/N_l[i]=3.179088e-04 for iteration i=15
+[DEBUG] (Total) convergence ratio: multipole(l)-sum of (N_l[i+1]-N_l[i])/N_l[i]=1.001089e-04 for iteration i=16
+[DEBUG] (Total) convergence ratio: multipole(l)-sum of (N_l[i+1]-N_l[i])/N_l[i]=3.153981e-05 for iteration i=17
+[DEBUG] (Total) convergence ratio: multipole(l)-sum of (N_l[i+1]-N_l[i])/N_l[i]=9.914270e-06 for iteration i=18
+Calculating cmb temperature noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_temp_noise.dat  
+Calculating cmb polariztion noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_pol_noise.dat  
+Calculating lensing reconstruction noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_defl_noise.dat  
+Using CMB spectra calculated by CLASS.
+Using *lensed* CMB spectra calculated by CLASS.
+Done calculating lensing.
+Calculating the delensed spectra.
+[DEBUG] (Total) convergence ratio: multipole(l)-sum of (N_l[i+1]-N_l[i])/N_l[i]=0.000000e+00 for iteration i=0
+[DEBUG] N_l is minimum-variance lensing noise reconstruction spectrum
+Calculating cmb temperature noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_temp_noise.dat  
+Calculating cmb polariztion noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_pol_noise.dat  
+Calculating lensing reconstruction noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_defl_noise.dat  
+Using CMB spectra calculated by CLASS.
+Using *lensed* CMB spectra calculated by CLASS.
+Done calculating lensing.
+Calculating the delensed spectra.
+[DEBUG] (Total) convergence ratio: multipole(l)-sum of (N_l[i+1]-N_l[i])/N_l[i]=0.000000e+00 for iteration i=0
+[DEBUG] N_l is minimum-variance lensing noise reconstruction spectrum
+Calculating cmb temperature noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_temp_noise.dat  
+Calculating cmb polariztion noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_pol_noise.dat  
+Calculating lensing reconstruction noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_defl_noise.dat  
+Using CMB spectra calculated by CLASS.
+Using *lensed* CMB spectra calculated by CLASS.
+Done calculating lensing.
+Calculating the delensed spectra.
+[DEBUG] (Total) convergence ratio: multipole(l)-sum of (N_l[i+1]-N_l[i])/N_l[i]=0.000000e+00 for iteration i=0
+[DEBUG] N_l is minimum-variance lensing noise reconstruction spectrum
+Calculating cmb temperature noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_temp_noise.dat  
+Calculating cmb polariztion noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_pol_noise.dat  
+Calculating lensing reconstruction noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_defl_noise.dat  
+Using CMB spectra calculated by CLASS.
+Using *lensed* CMB spectra calculated by CLASS.
+Done calculating lensing.
+Calculating the delensed spectra.
+[DEBUG] (Total) convergence ratio: multipole(l)-sum of (N_l[i+1]-N_l[i])/N_l[i]=0.000000e+00 for iteration i=0
+[DEBUG] N_l is minimum-variance lensing noise reconstruction spectrum
+Calculating cmb temperature noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_temp_noise.dat  
+Calculating cmb polariztion noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_pol_noise.dat  
+Calculating lensing reconstruction noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_defl_noise.dat  
+Using CMB spectra calculated by CLASS.
+Using *lensed* CMB spectra calculated by CLASS.
+Done calculating lensing.
+Calculating the delensed spectra.
+[DEBUG] (Total) convergence ratio: multipole(l)-sum of (N_l[i+1]-N_l[i])/N_l[i]=0.000000e+00 for iteration i=0
+[DEBUG] N_l is minimum-variance lensing noise reconstruction spectrum
+Calculating cmb temperature noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_temp_noise.dat  
+Calculating cmb polariztion noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_pol_noise.dat  
+Calculating lensing reconstruction noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_defl_noise.dat  
+Using CMB spectra calculated by CLASS.
+Using *lensed* CMB spectra calculated by CLASS.
+Done calculating lensing.
+Calculating the delensed spectra.
+[DEBUG] (Total) convergence ratio: multipole(l)-sum of (N_l[i+1]-N_l[i])/N_l[i]=0.000000e+00 for iteration i=0
+[DEBUG] N_l is minimum-variance lensing noise reconstruction spectrum
+Calculating cmb temperature noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_temp_noise.dat  
+Calculating cmb polariztion noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_pol_noise.dat  
+Calculating lensing reconstruction noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_defl_noise.dat  
+Using CMB spectra calculated by CLASS.
+Using *lensed* CMB spectra calculated by CLASS.
+Done calculating lensing.
+Calculating the delensed spectra.
+[DEBUG] (Total) convergence ratio: multipole(l)-sum of (N_l[i+1]-N_l[i])/N_l[i]=0.000000e+00 for iteration i=0
+[DEBUG] N_l is minimum-variance lensing noise reconstruction spectrum
+Calculating cmb temperature noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_temp_noise.dat  
+Calculating cmb polariztion noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_pol_noise.dat  
+Calculating lensing reconstruction noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_defl_noise.dat  
+Using CMB spectra calculated by CLASS.
+Using *lensed* CMB spectra calculated by CLASS.
+Done calculating lensing.
+Calculating the delensed spectra.
+[DEBUG] (Total) convergence ratio: multipole(l)-sum of (N_l[i+1]-N_l[i])/N_l[i]=0.000000e+00 for iteration i=0
+[DEBUG] N_l is minimum-variance lensing noise reconstruction spectrum
+Calculating cmb temperature noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_temp_noise.dat  
+Calculating cmb polariztion noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_pol_noise.dat  
+Calculating lensing reconstruction noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_defl_noise.dat  
+Using CMB spectra calculated by CLASS.
+Using *lensed* CMB spectra calculated by CLASS.
+Done calculating lensing.
+Calculating the delensed spectra.
+[DEBUG] (Total) convergence ratio: multipole(l)-sum of (N_l[i+1]-N_l[i])/N_l[i]=0.000000e+00 for iteration i=0
+[DEBUG] N_l is minimum-variance lensing noise reconstruction spectrum
+Calculating cmb temperature noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_temp_noise.dat  
+Calculating cmb polariztion noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_pol_noise.dat  
+Calculating lensing reconstruction noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_defl_noise.dat  
+Using CMB spectra calculated by CLASS.
+Using *lensed* CMB spectra calculated by CLASS.
+Done calculating lensing.
+Calculating the delensed spectra.
+[DEBUG] (Total) convergence ratio: multipole(l)-sum of (N_l[i+1]-N_l[i])/N_l[i]=0.000000e+00 for iteration i=0
+[DEBUG] N_l is minimum-variance lensing noise reconstruction spectrum
+Calculating cmb temperature noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_temp_noise.dat  
+Calculating cmb polariztion noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_pol_noise.dat  
+Calculating lensing reconstruction noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_defl_noise.dat  
+Using CMB spectra calculated by CLASS.
+Using *lensed* CMB spectra calculated by CLASS.
+Done calculating lensing.
+Calculating the delensed spectra.
+[DEBUG] (Total) convergence ratio: multipole(l)-sum of (N_l[i+1]-N_l[i])/N_l[i]=0.000000e+00 for iteration i=0
+[DEBUG] N_l is minimum-variance lensing noise reconstruction spectrum
+Calculating cmb temperature noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_temp_noise.dat  
+Calculating cmb polariztion noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_pol_noise.dat  
+Calculating lensing reconstruction noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_defl_noise.dat  
+Using CMB spectra calculated by CLASS.
+Using *lensed* CMB spectra calculated by CLASS.
+Done calculating lensing.
+Calculating the delensed spectra.
+[DEBUG] (Total) convergence ratio: multipole(l)-sum of (N_l[i+1]-N_l[i])/N_l[i]=0.000000e+00 for iteration i=0
+[DEBUG] N_l is minimum-variance lensing noise reconstruction spectrum
+Calculating cmb temperature noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_temp_noise.dat  
+Calculating cmb polariztion noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_pol_noise.dat  
+Calculating lensing reconstruction noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_defl_noise.dat  
+Using CMB spectra calculated by CLASS.
+Using *lensed* CMB spectra calculated by CLASS.
+Done calculating lensing.
+Calculating the delensed spectra.
+[DEBUG] (Total) convergence ratio: multipole(l)-sum of (N_l[i+1]-N_l[i])/N_l[i]=0.000000e+00 for iteration i=0
+[DEBUG] N_l is minimum-variance lensing noise reconstruction spectrum
+Calculating cmb temperature noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_temp_noise.dat  
+Calculating cmb polariztion noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_pol_noise.dat  
+Calculating lensing reconstruction noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_defl_noise.dat  
+Using CMB spectra calculated by CLASS.
+Using *lensed* CMB spectra calculated by CLASS.
+Done calculating lensing.
+Calculating the delensed spectra.
+[DEBUG] (Total) convergence ratio: multipole(l)-sum of (N_l[i+1]-N_l[i])/N_l[i]=0.000000e+00 for iteration i=0
+[DEBUG] N_l is minimum-variance lensing noise reconstruction spectrum
+Calculating cmb temperature noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_temp_noise.dat  
+Calculating cmb polariztion noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_pol_noise.dat  
+Calculating lensing reconstruction noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_defl_noise.dat  
+Using CMB spectra calculated by CLASS.
+Using *lensed* CMB spectra calculated by CLASS.
+Done calculating lensing.
+Calculating the delensed spectra.
+[DEBUG] (Total) convergence ratio: multipole(l)-sum of (N_l[i+1]-N_l[i])/N_l[i]=0.000000e+00 for iteration i=0
+[DEBUG] N_l is minimum-variance lensing noise reconstruction spectrum
+Calculating cmb temperature noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_temp_noise.dat  
+Calculating cmb polariztion noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_pol_noise.dat  
+Calculating lensing reconstruction noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_defl_noise.dat  
+Using CMB spectra calculated by CLASS.
+Using *lensed* CMB spectra calculated by CLASS.
+Done calculating lensing.
+Calculating the delensed spectra.
+[DEBUG] (Total) convergence ratio: multipole(l)-sum of (N_l[i+1]-N_l[i])/N_l[i]=0.000000e+00 for iteration i=0
+[DEBUG] N_l is minimum-variance lensing noise reconstruction spectrum
+/projects/caps/srinirag/git/CMB-S4_DRAFT/fisherTools.py:172: RuntimeWarning: divide by zero encountered in true_divide
+  runningTotal += 1/cmbNoiseSpectra[f][polComb]
+get_fisher_withdelensing.py:258: RuntimeWarning: divide by zero encountered in true_divide
+  runningTotal += 1/cmbNoiseSpectra[k][polComb]
+get_fisher_withdelensing.py:260: RuntimeWarning: divide by zero encountered in true_divide
+  runningTotal += 1/planckNoise[polComb]
+
+get noise spectra
+	** noiseSpectra: using analytic beam
+
+get noise spectra
+	** noiseSpectra: using analytic beam
+
+get noise spectra
+	** noiseSpectra: using analytic beam
+
+get noise spectra
+	** noiseSpectra: using analytic beam
+
+get noise spectra
+	** noiseSpectra: using analytic beam
+
+get noise spectra
+	** noiseSpectra: using analytic beam
+
+get noise spectra
+	** noiseSpectra: using analytic beam
+Node 0 working on experiment 0
+
+		Executing CLASS with CLASS_delens/./class ./CLASS_delens/data/Node_0/input/fisher_8p_0.ini
+#####
+
+  getting deriv w.r.t. omega_c_h2
+
+		Executing CLASS with CLASS_delens/./class ./CLASS_delens/data/Node_0/input/fisher_8p_0.ini
+
+		Executing CLASS with CLASS_delens/./class ./CLASS_delens/data/Node_0/input/fisher_8p_0.ini
+#####
+
+  getting deriv w.r.t. omega_b_h2
+
+		Executing CLASS with CLASS_delens/./class ./CLASS_delens/data/Node_0/input/fisher_8p_0.ini
+
+		Executing CLASS with CLASS_delens/./class ./CLASS_delens/data/Node_0/input/fisher_8p_0.ini
+#####
+
+  getting deriv w.r.t. N_eff
+
+		Executing CLASS with CLASS_delens/./class ./CLASS_delens/data/Node_0/input/fisher_8p_0.ini
+
+		Executing CLASS with CLASS_delens/./class ./CLASS_delens/data/Node_0/input/fisher_8p_0.ini
+#####
+
+  getting deriv w.r.t. A_s
+
+		Executing CLASS with CLASS_delens/./class ./CLASS_delens/data/Node_0/input/fisher_8p_0.ini
+
+		Executing CLASS with CLASS_delens/./class ./CLASS_delens/data/Node_0/input/fisher_8p_0.ini
+#####
+
+  getting deriv w.r.t. n_s
+
+		Executing CLASS with CLASS_delens/./class ./CLASS_delens/data/Node_0/input/fisher_8p_0.ini
+
+		Executing CLASS with CLASS_delens/./class ./CLASS_delens/data/Node_0/input/fisher_8p_0.ini
+#####
+
+  getting deriv w.r.t. tau
+
+		Executing CLASS with CLASS_delens/./class ./CLASS_delens/data/Node_0/input/fisher_8p_0.ini
+
+		Executing CLASS with CLASS_delens/./class ./CLASS_delens/data/Node_0/input/fisher_8p_0.ini
+#####
+
+  getting deriv w.r.t. theta_s
+
+		Executing CLASS with CLASS_delens/./class ./CLASS_delens/data/Node_0/input/fisher_8p_0.ini
+
+		Executing CLASS with CLASS_delens/./class ./CLASS_delens/data/Node_0/input/fisher_8p_0.ini
+#####
+
+  getting deriv w.r.t. mnu
+
+		Executing CLASS with CLASS_delens/./class ./CLASS_delens/data/Node_0/input/fisher_8p_0.ini
+
+		Executing CLASS with CLASS_delens/./class ./CLASS_delens/data/Node_0/input/fisher_8p_0.ini
+Using ellsToUse passed by user.
+Node 0 finished all experiments
+Node 0 saving data
+
+
+Node 0 saving data complete. Check results/20210506_with202102designtoolinputforpySM3sims_sedscalingfordust/s4_so_joint_configs//s4deepv3r025/s4deepv3r025_ilc_galaxy0_27-39-93-145-225-278_TT-EE_for10years.npy
+
+
+	total time take = 11.587 minutes
+Calculating cmb temperature noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_temp_noise.dat  
+Calculating cmb polariztion noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_pol_noise.dat  
+Will calculate lensing reconstruction noise spectra estimate from lensed CMB spectra a la astro-ph/0301031.
+Using CMB spectra calculated by CLASS.
+Using *lensed* CMB spectra calculated by CLASS.
+Done calculating lensing.
+Calculating the delensed spectra.
+[DEBUG] (Total) convergence ratio: multipole(l)-sum of (N_l[i+1]-N_l[i])/N_l[i]=0.000000e+00 for iteration i=0
+[DEBUG] N_l is minimum-variance lensing noise reconstruction spectrum
+[DEBUG] (Total) convergence ratio: multipole(l)-sum of (N_l[i+1]-N_l[i])/N_l[i]=1.921049e+03 for iteration i=1
+[DEBUG] (Total) convergence ratio: multipole(l)-sum of (N_l[i+1]-N_l[i])/N_l[i]=3.061818e+02 for iteration i=2
+[DEBUG] (Total) convergence ratio: multipole(l)-sum of (N_l[i+1]-N_l[i])/N_l[i]=5.589931e+01 for iteration i=3
+[DEBUG] (Total) convergence ratio: multipole(l)-sum of (N_l[i+1]-N_l[i])/N_l[i]=1.035348e+01 for iteration i=4
+[DEBUG] (Total) convergence ratio: multipole(l)-sum of (N_l[i+1]-N_l[i])/N_l[i]=1.922037e+00 for iteration i=5
+[DEBUG] (Total) convergence ratio: multipole(l)-sum of (N_l[i+1]-N_l[i])/N_l[i]=3.569579e-01 for iteration i=6
+[DEBUG] (Total) convergence ratio: multipole(l)-sum of (N_l[i+1]-N_l[i])/N_l[i]=6.629877e-02 for iteration i=7
+[DEBUG] (Total) convergence ratio: multipole(l)-sum of (N_l[i+1]-N_l[i])/N_l[i]=1.231404e-02 for iteration i=8
+[DEBUG] (Total) convergence ratio: multipole(l)-sum of (N_l[i+1]-N_l[i])/N_l[i]=2.287158e-03 for iteration i=9
+[DEBUG] (Total) convergence ratio: multipole(l)-sum of (N_l[i+1]-N_l[i])/N_l[i]=4.247616e-04 for iteration i=10
+[DEBUG] (Total) convergence ratio: multipole(l)-sum of (N_l[i+1]-N_l[i])/N_l[i]=7.892876e-05 for iteration i=11
+[DEBUG] (Total) convergence ratio: multipole(l)-sum of (N_l[i+1]-N_l[i])/N_l[i]=1.463621e-05 for iteration i=12
+[DEBUG] (Total) convergence ratio: multipole(l)-sum of (N_l[i+1]-N_l[i])/N_l[i]=2.723955e-06 for iteration i=13
+Calculating cmb temperature noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_temp_noise.dat  
+Calculating cmb polariztion noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_pol_noise.dat  
+Calculating lensing reconstruction noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_defl_noise.dat  
+Using CMB spectra calculated by CLASS.
+Using *lensed* CMB spectra calculated by CLASS.
+Done calculating lensing.
+Calculating the delensed spectra.
+[DEBUG] (Total) convergence ratio: multipole(l)-sum of (N_l[i+1]-N_l[i])/N_l[i]=0.000000e+00 for iteration i=0
+[DEBUG] N_l is minimum-variance lensing noise reconstruction spectrum
+Calculating cmb temperature noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_temp_noise.dat  
+Calculating cmb polariztion noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_pol_noise.dat  
+Calculating lensing reconstruction noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_defl_noise.dat  
+Using CMB spectra calculated by CLASS.
+Using *lensed* CMB spectra calculated by CLASS.
+Done calculating lensing.
+Calculating the delensed spectra.
+[DEBUG] (Total) convergence ratio: multipole(l)-sum of (N_l[i+1]-N_l[i])/N_l[i]=0.000000e+00 for iteration i=0
+[DEBUG] N_l is minimum-variance lensing noise reconstruction spectrum
+Calculating cmb temperature noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_temp_noise.dat  
+Calculating cmb polariztion noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_pol_noise.dat  
+Calculating lensing reconstruction noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_defl_noise.dat  
+Using CMB spectra calculated by CLASS.
+Using *lensed* CMB spectra calculated by CLASS.
+Done calculating lensing.
+Calculating the delensed spectra.
+[DEBUG] (Total) convergence ratio: multipole(l)-sum of (N_l[i+1]-N_l[i])/N_l[i]=0.000000e+00 for iteration i=0
+[DEBUG] N_l is minimum-variance lensing noise reconstruction spectrum
+Calculating cmb temperature noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_temp_noise.dat  
+Calculating cmb polariztion noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_pol_noise.dat  
+Calculating lensing reconstruction noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_defl_noise.dat  
+Using CMB spectra calculated by CLASS.
+Using *lensed* CMB spectra calculated by CLASS.
+Done calculating lensing.
+Calculating the delensed spectra.
+[DEBUG] (Total) convergence ratio: multipole(l)-sum of (N_l[i+1]-N_l[i])/N_l[i]=0.000000e+00 for iteration i=0
+[DEBUG] N_l is minimum-variance lensing noise reconstruction spectrum
+Calculating cmb temperature noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_temp_noise.dat  
+Calculating cmb polariztion noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_pol_noise.dat  
+Calculating lensing reconstruction noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_defl_noise.dat  
+Using CMB spectra calculated by CLASS.
+Using *lensed* CMB spectra calculated by CLASS.
+Done calculating lensing.
+Calculating the delensed spectra.
+[DEBUG] (Total) convergence ratio: multipole(l)-sum of (N_l[i+1]-N_l[i])/N_l[i]=0.000000e+00 for iteration i=0
+[DEBUG] N_l is minimum-variance lensing noise reconstruction spectrum
+Calculating cmb temperature noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_temp_noise.dat  
+Calculating cmb polariztion noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_pol_noise.dat  
+Calculating lensing reconstruction noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_defl_noise.dat  
+Using CMB spectra calculated by CLASS.
+Using *lensed* CMB spectra calculated by CLASS.
+Done calculating lensing.
+Calculating the delensed spectra.
+[DEBUG] (Total) convergence ratio: multipole(l)-sum of (N_l[i+1]-N_l[i])/N_l[i]=0.000000e+00 for iteration i=0
+[DEBUG] N_l is minimum-variance lensing noise reconstruction spectrum
+Calculating cmb temperature noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_temp_noise.dat  
+Calculating cmb polariztion noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_pol_noise.dat  
+Calculating lensing reconstruction noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_defl_noise.dat  
+Using CMB spectra calculated by CLASS.
+Using *lensed* CMB spectra calculated by CLASS.
+Done calculating lensing.
+Calculating the delensed spectra.
+[DEBUG] (Total) convergence ratio: multipole(l)-sum of (N_l[i+1]-N_l[i])/N_l[i]=0.000000e+00 for iteration i=0
+[DEBUG] N_l is minimum-variance lensing noise reconstruction spectrum
+Calculating cmb temperature noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_temp_noise.dat  
+Calculating cmb polariztion noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_pol_noise.dat  
+Calculating lensing reconstruction noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_defl_noise.dat  
+Using CMB spectra calculated by CLASS.
+Using *lensed* CMB spectra calculated by CLASS.
+Done calculating lensing.
+Calculating the delensed spectra.
+[DEBUG] (Total) convergence ratio: multipole(l)-sum of (N_l[i+1]-N_l[i])/N_l[i]=0.000000e+00 for iteration i=0
+[DEBUG] N_l is minimum-variance lensing noise reconstruction spectrum
+Calculating cmb temperature noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_temp_noise.dat  
+Calculating cmb polariztion noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_pol_noise.dat  
+Calculating lensing reconstruction noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_defl_noise.dat  
+Using CMB spectra calculated by CLASS.
+Using *lensed* CMB spectra calculated by CLASS.
+Done calculating lensing.
+Calculating the delensed spectra.
+[DEBUG] (Total) convergence ratio: multipole(l)-sum of (N_l[i+1]-N_l[i])/N_l[i]=0.000000e+00 for iteration i=0
+[DEBUG] N_l is minimum-variance lensing noise reconstruction spectrum
+Calculating cmb temperature noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_temp_noise.dat  
+Calculating cmb polariztion noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_pol_noise.dat  
+Calculating lensing reconstruction noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_defl_noise.dat  
+Using CMB spectra calculated by CLASS.
+Using *lensed* CMB spectra calculated by CLASS.
+Done calculating lensing.
+Calculating the delensed spectra.
+[DEBUG] (Total) convergence ratio: multipole(l)-sum of (N_l[i+1]-N_l[i])/N_l[i]=0.000000e+00 for iteration i=0
+[DEBUG] N_l is minimum-variance lensing noise reconstruction spectrum
+Calculating cmb temperature noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_temp_noise.dat  
+Calculating cmb polariztion noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_pol_noise.dat  
+Calculating lensing reconstruction noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_defl_noise.dat  
+Using CMB spectra calculated by CLASS.
+Using *lensed* CMB spectra calculated by CLASS.
+Done calculating lensing.
+Calculating the delensed spectra.
+[DEBUG] (Total) convergence ratio: multipole(l)-sum of (N_l[i+1]-N_l[i])/N_l[i]=0.000000e+00 for iteration i=0
+[DEBUG] N_l is minimum-variance lensing noise reconstruction spectrum
+Calculating cmb temperature noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_temp_noise.dat  
+Calculating cmb polariztion noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_pol_noise.dat  
+Calculating lensing reconstruction noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_defl_noise.dat  
+Using CMB spectra calculated by CLASS.
+Using *lensed* CMB spectra calculated by CLASS.
+Done calculating lensing.
+Calculating the delensed spectra.
+[DEBUG] (Total) convergence ratio: multipole(l)-sum of (N_l[i+1]-N_l[i])/N_l[i]=0.000000e+00 for iteration i=0
+[DEBUG] N_l is minimum-variance lensing noise reconstruction spectrum
+Calculating cmb temperature noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_temp_noise.dat  
+Calculating cmb polariztion noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_pol_noise.dat  
+Calculating lensing reconstruction noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_defl_noise.dat  
+Using CMB spectra calculated by CLASS.
+Using *lensed* CMB spectra calculated by CLASS.
+Done calculating lensing.
+Calculating the delensed spectra.
+[DEBUG] (Total) convergence ratio: multipole(l)-sum of (N_l[i+1]-N_l[i])/N_l[i]=0.000000e+00 for iteration i=0
+[DEBUG] N_l is minimum-variance lensing noise reconstruction spectrum
+Calculating cmb temperature noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_temp_noise.dat  
+Calculating cmb polariztion noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_pol_noise.dat  
+Calculating lensing reconstruction noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_defl_noise.dat  
+Using CMB spectra calculated by CLASS.
+Using *lensed* CMB spectra calculated by CLASS.
+Done calculating lensing.
+Calculating the delensed spectra.
+[DEBUG] (Total) convergence ratio: multipole(l)-sum of (N_l[i+1]-N_l[i])/N_l[i]=0.000000e+00 for iteration i=0
+[DEBUG] N_l is minimum-variance lensing noise reconstruction spectrum
+Calculating cmb temperature noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_temp_noise.dat  
+Calculating cmb polariztion noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_pol_noise.dat  
+Calculating lensing reconstruction noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_defl_noise.dat  
+Using CMB spectra calculated by CLASS.
+Using *lensed* CMB spectra calculated by CLASS.
+Done calculating lensing.
+Calculating the delensed spectra.
+[DEBUG] (Total) convergence ratio: multipole(l)-sum of (N_l[i+1]-N_l[i])/N_l[i]=0.000000e+00 for iteration i=0
+[DEBUG] N_l is minimum-variance lensing noise reconstruction spectrum
+Calculating cmb temperature noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_temp_noise.dat  
+Calculating cmb polariztion noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_pol_noise.dat  
+Calculating lensing reconstruction noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_defl_noise.dat  
+Using CMB spectra calculated by CLASS.
+Using *lensed* CMB spectra calculated by CLASS.
+Done calculating lensing.
+Calculating the delensed spectra.
+[DEBUG] (Total) convergence ratio: multipole(l)-sum of (N_l[i+1]-N_l[i])/N_l[i]=0.000000e+00 for iteration i=0
+[DEBUG] N_l is minimum-variance lensing noise reconstruction spectrum
+/projects/caps/srinirag/git/CMB-S4_DRAFT/fisherTools.py:172: RuntimeWarning: divide by zero encountered in true_divide
+  runningTotal += 1/cmbNoiseSpectra[f][polComb]
+get_fisher_withdelensing.py:258: RuntimeWarning: divide by zero encountered in true_divide
+  runningTotal += 1/cmbNoiseSpectra[k][polComb]
+get_fisher_withdelensing.py:260: RuntimeWarning: divide by zero encountered in true_divide
+  runningTotal += 1/planckNoise[polComb]
+
+get noise spectra
+	** noiseSpectra: using analytic beam
+
+get noise spectra
+	** noiseSpectra: using analytic beam
+
+get noise spectra
+	** noiseSpectra: using analytic beam
+
+get noise spectra
+	** noiseSpectra: using analytic beam
+
+get noise spectra
+	** noiseSpectra: using analytic beam
+
+get noise spectra
+	** noiseSpectra: using analytic beam
+
+get noise spectra
+	** noiseSpectra: using analytic beam
+Node 0 working on experiment 0
+
+		Executing CLASS with CLASS_delens/./class ./CLASS_delens/data/Node_0/input/fisher_8p_0.ini
+#####
+
+  getting deriv w.r.t. omega_c_h2
+
+		Executing CLASS with CLASS_delens/./class ./CLASS_delens/data/Node_0/input/fisher_8p_0.ini
+
+		Executing CLASS with CLASS_delens/./class ./CLASS_delens/data/Node_0/input/fisher_8p_0.ini
+#####
+
+  getting deriv w.r.t. omega_b_h2
+
+		Executing CLASS with CLASS_delens/./class ./CLASS_delens/data/Node_0/input/fisher_8p_0.ini
+
+		Executing CLASS with CLASS_delens/./class ./CLASS_delens/data/Node_0/input/fisher_8p_0.ini
+#####
+
+  getting deriv w.r.t. N_eff
+
+		Executing CLASS with CLASS_delens/./class ./CLASS_delens/data/Node_0/input/fisher_8p_0.ini
+
+		Executing CLASS with CLASS_delens/./class ./CLASS_delens/data/Node_0/input/fisher_8p_0.ini
+#####
+
+  getting deriv w.r.t. A_s
+
+		Executing CLASS with CLASS_delens/./class ./CLASS_delens/data/Node_0/input/fisher_8p_0.ini
+
+		Executing CLASS with CLASS_delens/./class ./CLASS_delens/data/Node_0/input/fisher_8p_0.ini
+#####
+
+  getting deriv w.r.t. n_s
+
+		Executing CLASS with CLASS_delens/./class ./CLASS_delens/data/Node_0/input/fisher_8p_0.ini
+
+		Executing CLASS with CLASS_delens/./class ./CLASS_delens/data/Node_0/input/fisher_8p_0.ini
+#####
+
+  getting deriv w.r.t. tau
+
+		Executing CLASS with CLASS_delens/./class ./CLASS_delens/data/Node_0/input/fisher_8p_0.ini
+
+		Executing CLASS with CLASS_delens/./class ./CLASS_delens/data/Node_0/input/fisher_8p_0.ini
+#####
+
+  getting deriv w.r.t. theta_s
+
+		Executing CLASS with CLASS_delens/./class ./CLASS_delens/data/Node_0/input/fisher_8p_0.ini
+
+		Executing CLASS with CLASS_delens/./class ./CLASS_delens/data/Node_0/input/fisher_8p_0.ini
+#####
+
+  getting deriv w.r.t. mnu
+
+		Executing CLASS with CLASS_delens/./class ./CLASS_delens/data/Node_0/input/fisher_8p_0.ini
+
+		Executing CLASS with CLASS_delens/./class ./CLASS_delens/data/Node_0/input/fisher_8p_0.ini
+Using ellsToUse passed by user.
+Node 0 finished all experiments
+Node 0 saving data
+
+
+Node 0 saving data complete. Check results/20210506_with202102designtoolinputforpySM3sims_sedscalingfordust/s4_so_joint_configs//s4deepv3r025/s4deepv3r025_ilc_galaxy0_27-39-93-145-225-278_TT-EE_for1years.npy
+
+
+	total time take = 10.675 minutes
+Calculating cmb temperature noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_temp_noise.dat  
+Calculating cmb polariztion noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_pol_noise.dat  
+Will calculate lensing reconstruction noise spectra estimate from lensed CMB spectra a la astro-ph/0301031.
+Using CMB spectra calculated by CLASS.
+Using *lensed* CMB spectra calculated by CLASS.
+Done calculating lensing.
+Calculating the delensed spectra.
+[DEBUG] (Total) convergence ratio: multipole(l)-sum of (N_l[i+1]-N_l[i])/N_l[i]=0.000000e+00 for iteration i=0
+[DEBUG] N_l is minimum-variance lensing noise reconstruction spectrum
+[DEBUG] (Total) convergence ratio: multipole(l)-sum of (N_l[i+1]-N_l[i])/N_l[i]=2.570001e+03 for iteration i=1
+[DEBUG] (Total) convergence ratio: multipole(l)-sum of (N_l[i+1]-N_l[i])/N_l[i]=4.936683e+02 for iteration i=2
+[DEBUG] (Total) convergence ratio: multipole(l)-sum of (N_l[i+1]-N_l[i])/N_l[i]=1.094247e+02 for iteration i=3
+[DEBUG] (Total) convergence ratio: multipole(l)-sum of (N_l[i+1]-N_l[i])/N_l[i]=2.470196e+01 for iteration i=4
+[DEBUG] (Total) convergence ratio: multipole(l)-sum of (N_l[i+1]-N_l[i])/N_l[i]=5.596144e+00 for iteration i=5
+[DEBUG] (Total) convergence ratio: multipole(l)-sum of (N_l[i+1]-N_l[i])/N_l[i]=1.268772e+00 for iteration i=6
+[DEBUG] (Total) convergence ratio: multipole(l)-sum of (N_l[i+1]-N_l[i])/N_l[i]=2.877094e-01 for iteration i=7
+[DEBUG] (Total) convergence ratio: multipole(l)-sum of (N_l[i+1]-N_l[i])/N_l[i]=6.524417e-02 for iteration i=8
+[DEBUG] (Total) convergence ratio: multipole(l)-sum of (N_l[i+1]-N_l[i])/N_l[i]=1.479561e-02 for iteration i=9
+[DEBUG] (Total) convergence ratio: multipole(l)-sum of (N_l[i+1]-N_l[i])/N_l[i]=3.355250e-03 for iteration i=10
+[DEBUG] (Total) convergence ratio: multipole(l)-sum of (N_l[i+1]-N_l[i])/N_l[i]=7.608928e-04 for iteration i=11
+[DEBUG] (Total) convergence ratio: multipole(l)-sum of (N_l[i+1]-N_l[i])/N_l[i]=1.725431e-04 for iteration i=12
+[DEBUG] (Total) convergence ratio: multipole(l)-sum of (N_l[i+1]-N_l[i])/N_l[i]=3.914083e-05 for iteration i=13
+[DEBUG] (Total) convergence ratio: multipole(l)-sum of (N_l[i+1]-N_l[i])/N_l[i]=8.865906e-06 for iteration i=14
+Calculating cmb temperature noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_temp_noise.dat  
+Calculating cmb polariztion noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_pol_noise.dat  
+Calculating lensing reconstruction noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_defl_noise.dat  
+Using CMB spectra calculated by CLASS.
+Using *lensed* CMB spectra calculated by CLASS.
+Done calculating lensing.
+Calculating the delensed spectra.
+[DEBUG] (Total) convergence ratio: multipole(l)-sum of (N_l[i+1]-N_l[i])/N_l[i]=0.000000e+00 for iteration i=0
+[DEBUG] N_l is minimum-variance lensing noise reconstruction spectrum
+Calculating cmb temperature noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_temp_noise.dat  
+Calculating cmb polariztion noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_pol_noise.dat  
+Calculating lensing reconstruction noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_defl_noise.dat  
+Using CMB spectra calculated by CLASS.
+Using *lensed* CMB spectra calculated by CLASS.
+Done calculating lensing.
+Calculating the delensed spectra.
+[DEBUG] (Total) convergence ratio: multipole(l)-sum of (N_l[i+1]-N_l[i])/N_l[i]=0.000000e+00 for iteration i=0
+[DEBUG] N_l is minimum-variance lensing noise reconstruction spectrum
+Calculating cmb temperature noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_temp_noise.dat  
+Calculating cmb polariztion noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_pol_noise.dat  
+Calculating lensing reconstruction noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_defl_noise.dat  
+Using CMB spectra calculated by CLASS.
+Using *lensed* CMB spectra calculated by CLASS.
+Done calculating lensing.
+Calculating the delensed spectra.
+[DEBUG] (Total) convergence ratio: multipole(l)-sum of (N_l[i+1]-N_l[i])/N_l[i]=0.000000e+00 for iteration i=0
+[DEBUG] N_l is minimum-variance lensing noise reconstruction spectrum
+Calculating cmb temperature noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_temp_noise.dat  
+Calculating cmb polariztion noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_pol_noise.dat  
+Calculating lensing reconstruction noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_defl_noise.dat  
+Using CMB spectra calculated by CLASS.
+Using *lensed* CMB spectra calculated by CLASS.
+Done calculating lensing.
+Calculating the delensed spectra.
+[DEBUG] (Total) convergence ratio: multipole(l)-sum of (N_l[i+1]-N_l[i])/N_l[i]=0.000000e+00 for iteration i=0
+[DEBUG] N_l is minimum-variance lensing noise reconstruction spectrum
+Calculating cmb temperature noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_temp_noise.dat  
+Calculating cmb polariztion noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_pol_noise.dat  
+Calculating lensing reconstruction noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_defl_noise.dat  
+Using CMB spectra calculated by CLASS.
+Using *lensed* CMB spectra calculated by CLASS.
+Done calculating lensing.
+Calculating the delensed spectra.
+[DEBUG] (Total) convergence ratio: multipole(l)-sum of (N_l[i+1]-N_l[i])/N_l[i]=0.000000e+00 for iteration i=0
+[DEBUG] N_l is minimum-variance lensing noise reconstruction spectrum
+Calculating cmb temperature noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_temp_noise.dat  
+Calculating cmb polariztion noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_pol_noise.dat  
+Calculating lensing reconstruction noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_defl_noise.dat  
+Using CMB spectra calculated by CLASS.
+Using *lensed* CMB spectra calculated by CLASS.
+Done calculating lensing.
+Calculating the delensed spectra.
+[DEBUG] (Total) convergence ratio: multipole(l)-sum of (N_l[i+1]-N_l[i])/N_l[i]=0.000000e+00 for iteration i=0
+[DEBUG] N_l is minimum-variance lensing noise reconstruction spectrum
+Calculating cmb temperature noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_temp_noise.dat  
+Calculating cmb polariztion noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_pol_noise.dat  
+Calculating lensing reconstruction noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_defl_noise.dat  
+Using CMB spectra calculated by CLASS.
+Using *lensed* CMB spectra calculated by CLASS.
+Done calculating lensing.
+Calculating the delensed spectra.
+[DEBUG] (Total) convergence ratio: multipole(l)-sum of (N_l[i+1]-N_l[i])/N_l[i]=0.000000e+00 for iteration i=0
+[DEBUG] N_l is minimum-variance lensing noise reconstruction spectrum
+Calculating cmb temperature noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_temp_noise.dat  
+Calculating cmb polariztion noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_pol_noise.dat  
+Calculating lensing reconstruction noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_defl_noise.dat  
+Using CMB spectra calculated by CLASS.
+Using *lensed* CMB spectra calculated by CLASS.
+Done calculating lensing.
+Calculating the delensed spectra.
+[DEBUG] (Total) convergence ratio: multipole(l)-sum of (N_l[i+1]-N_l[i])/N_l[i]=0.000000e+00 for iteration i=0
+[DEBUG] N_l is minimum-variance lensing noise reconstruction spectrum
+Calculating cmb temperature noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_temp_noise.dat  
+Calculating cmb polariztion noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_pol_noise.dat  
+Calculating lensing reconstruction noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_defl_noise.dat  
+Using CMB spectra calculated by CLASS.
+Using *lensed* CMB spectra calculated by CLASS.
+Done calculating lensing.
+Calculating the delensed spectra.
+[DEBUG] (Total) convergence ratio: multipole(l)-sum of (N_l[i+1]-N_l[i])/N_l[i]=0.000000e+00 for iteration i=0
+[DEBUG] N_l is minimum-variance lensing noise reconstruction spectrum
+Calculating cmb temperature noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_temp_noise.dat  
+Calculating cmb polariztion noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_pol_noise.dat  
+Calculating lensing reconstruction noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_defl_noise.dat  
+Using CMB spectra calculated by CLASS.
+Using *lensed* CMB spectra calculated by CLASS.
+Done calculating lensing.
+Calculating the delensed spectra.
+[DEBUG] (Total) convergence ratio: multipole(l)-sum of (N_l[i+1]-N_l[i])/N_l[i]=0.000000e+00 for iteration i=0
+[DEBUG] N_l is minimum-variance lensing noise reconstruction spectrum
+Calculating cmb temperature noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_temp_noise.dat  
+Calculating cmb polariztion noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_pol_noise.dat  
+Calculating lensing reconstruction noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_defl_noise.dat  
+Using CMB spectra calculated by CLASS.
+Using *lensed* CMB spectra calculated by CLASS.
+Done calculating lensing.
+Calculating the delensed spectra.
+[DEBUG] (Total) convergence ratio: multipole(l)-sum of (N_l[i+1]-N_l[i])/N_l[i]=0.000000e+00 for iteration i=0
+[DEBUG] N_l is minimum-variance lensing noise reconstruction spectrum
+Calculating cmb temperature noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_temp_noise.dat  
+Calculating cmb polariztion noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_pol_noise.dat  
+Calculating lensing reconstruction noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_defl_noise.dat  
+Using CMB spectra calculated by CLASS.
+Using *lensed* CMB spectra calculated by CLASS.
+Done calculating lensing.
+Calculating the delensed spectra.
+[DEBUG] (Total) convergence ratio: multipole(l)-sum of (N_l[i+1]-N_l[i])/N_l[i]=0.000000e+00 for iteration i=0
+[DEBUG] N_l is minimum-variance lensing noise reconstruction spectrum
+Calculating cmb temperature noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_temp_noise.dat  
+Calculating cmb polariztion noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_pol_noise.dat  
+Calculating lensing reconstruction noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_defl_noise.dat  
+Using CMB spectra calculated by CLASS.
+Using *lensed* CMB spectra calculated by CLASS.
+Done calculating lensing.
+Calculating the delensed spectra.
+[DEBUG] (Total) convergence ratio: multipole(l)-sum of (N_l[i+1]-N_l[i])/N_l[i]=0.000000e+00 for iteration i=0
+[DEBUG] N_l is minimum-variance lensing noise reconstruction spectrum
+Calculating cmb temperature noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_temp_noise.dat  
+Calculating cmb polariztion noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_pol_noise.dat  
+Calculating lensing reconstruction noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_defl_noise.dat  
+Using CMB spectra calculated by CLASS.
+Using *lensed* CMB spectra calculated by CLASS.
+Done calculating lensing.
+Calculating the delensed spectra.
+[DEBUG] (Total) convergence ratio: multipole(l)-sum of (N_l[i+1]-N_l[i])/N_l[i]=0.000000e+00 for iteration i=0
+[DEBUG] N_l is minimum-variance lensing noise reconstruction spectrum
+Calculating cmb temperature noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_temp_noise.dat  
+Calculating cmb polariztion noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_pol_noise.dat  
+Calculating lensing reconstruction noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_defl_noise.dat  
+Using CMB spectra calculated by CLASS.
+Using *lensed* CMB spectra calculated by CLASS.
+Done calculating lensing.
+Calculating the delensed spectra.
+[DEBUG] (Total) convergence ratio: multipole(l)-sum of (N_l[i+1]-N_l[i])/N_l[i]=0.000000e+00 for iteration i=0
+[DEBUG] N_l is minimum-variance lensing noise reconstruction spectrum
+Calculating cmb temperature noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_temp_noise.dat  
+Calculating cmb polariztion noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_pol_noise.dat  
+Calculating lensing reconstruction noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_defl_noise.dat  
+Using CMB spectra calculated by CLASS.
+Using *lensed* CMB spectra calculated by CLASS.
+Done calculating lensing.
+Calculating the delensed spectra.
+[DEBUG] (Total) convergence ratio: multipole(l)-sum of (N_l[i+1]-N_l[i])/N_l[i]=0.000000e+00 for iteration i=0
+[DEBUG] N_l is minimum-variance lensing noise reconstruction spectrum
+/projects/caps/srinirag/git/CMB-S4_DRAFT/fisherTools.py:172: RuntimeWarning: divide by zero encountered in true_divide
+  runningTotal += 1/cmbNoiseSpectra[f][polComb]
+get_fisher_withdelensing.py:258: RuntimeWarning: divide by zero encountered in true_divide
+  runningTotal += 1/cmbNoiseSpectra[k][polComb]
+get_fisher_withdelensing.py:260: RuntimeWarning: divide by zero encountered in true_divide
+  runningTotal += 1/planckNoise[polComb]
+
+get noise spectra
+	** noiseSpectra: using analytic beam
+
+get noise spectra
+	** noiseSpectra: using analytic beam
+
+get noise spectra
+	** noiseSpectra: using analytic beam
+
+get noise spectra
+	** noiseSpectra: using analytic beam
+
+get noise spectra
+	** noiseSpectra: using analytic beam
+
+get noise spectra
+	** noiseSpectra: using analytic beam
+
+get noise spectra
+	** noiseSpectra: using analytic beam
+Node 0 working on experiment 0
+
+		Executing CLASS with CLASS_delens/./class ./CLASS_delens/data/Node_0/input/fisher_8p_0.ini
+#####
+
+  getting deriv w.r.t. omega_c_h2
+
+		Executing CLASS with CLASS_delens/./class ./CLASS_delens/data/Node_0/input/fisher_8p_0.ini
+
+		Executing CLASS with CLASS_delens/./class ./CLASS_delens/data/Node_0/input/fisher_8p_0.ini
+#####
+
+  getting deriv w.r.t. omega_b_h2
+
+		Executing CLASS with CLASS_delens/./class ./CLASS_delens/data/Node_0/input/fisher_8p_0.ini
+
+		Executing CLASS with CLASS_delens/./class ./CLASS_delens/data/Node_0/input/fisher_8p_0.ini
+#####
+
+  getting deriv w.r.t. N_eff
+
+		Executing CLASS with CLASS_delens/./class ./CLASS_delens/data/Node_0/input/fisher_8p_0.ini
+
+		Executing CLASS with CLASS_delens/./class ./CLASS_delens/data/Node_0/input/fisher_8p_0.ini
+#####
+
+  getting deriv w.r.t. A_s
+
+		Executing CLASS with CLASS_delens/./class ./CLASS_delens/data/Node_0/input/fisher_8p_0.ini
+
+		Executing CLASS with CLASS_delens/./class ./CLASS_delens/data/Node_0/input/fisher_8p_0.ini
+#####
+
+  getting deriv w.r.t. n_s
+
+		Executing CLASS with CLASS_delens/./class ./CLASS_delens/data/Node_0/input/fisher_8p_0.ini
+
+		Executing CLASS with CLASS_delens/./class ./CLASS_delens/data/Node_0/input/fisher_8p_0.ini
+#####
+
+  getting deriv w.r.t. tau
+
+		Executing CLASS with CLASS_delens/./class ./CLASS_delens/data/Node_0/input/fisher_8p_0.ini
+
+		Executing CLASS with CLASS_delens/./class ./CLASS_delens/data/Node_0/input/fisher_8p_0.ini
+#####
+
+  getting deriv w.r.t. theta_s
+
+		Executing CLASS with CLASS_delens/./class ./CLASS_delens/data/Node_0/input/fisher_8p_0.ini
+
+		Executing CLASS with CLASS_delens/./class ./CLASS_delens/data/Node_0/input/fisher_8p_0.ini
+#####
+
+  getting deriv w.r.t. mnu
+
+		Executing CLASS with CLASS_delens/./class ./CLASS_delens/data/Node_0/input/fisher_8p_0.ini
+
+		Executing CLASS with CLASS_delens/./class ./CLASS_delens/data/Node_0/input/fisher_8p_0.ini
+Using ellsToUse passed by user.
+Node 0 finished all experiments
+Node 0 saving data
+
+
+Node 0 saving data complete. Check results/20210506_with202102designtoolinputforpySM3sims_sedscalingfordust/s4_so_joint_configs//s4deepv3r025/s4deepv3r025_ilc_galaxy0_27-39-93-145-225-278_TT-EE_for2years.npy
+
+
+	total time take = 10.968 minutes
+Calculating cmb temperature noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_temp_noise.dat  
+Calculating cmb polariztion noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_pol_noise.dat  
+Will calculate lensing reconstruction noise spectra estimate from lensed CMB spectra a la astro-ph/0301031.
+Using CMB spectra calculated by CLASS.
+Using *lensed* CMB spectra calculated by CLASS.
+Done calculating lensing.
+Calculating the delensed spectra.
+[DEBUG] (Total) convergence ratio: multipole(l)-sum of (N_l[i+1]-N_l[i])/N_l[i]=0.000000e+00 for iteration i=0
+[DEBUG] N_l is minimum-variance lensing noise reconstruction spectrum
+[DEBUG] (Total) convergence ratio: multipole(l)-sum of (N_l[i+1]-N_l[i])/N_l[i]=2.988053e+03 for iteration i=1
+[DEBUG] (Total) convergence ratio: multipole(l)-sum of (N_l[i+1]-N_l[i])/N_l[i]=6.272993e+02 for iteration i=2
+[DEBUG] (Total) convergence ratio: multipole(l)-sum of (N_l[i+1]-N_l[i])/N_l[i]=1.526540e+02 for iteration i=3
+[DEBUG] (Total) convergence ratio: multipole(l)-sum of (N_l[i+1]-N_l[i])/N_l[i]=3.792195e+01 for iteration i=4
+[DEBUG] (Total) convergence ratio: multipole(l)-sum of (N_l[i+1]-N_l[i])/N_l[i]=9.461948e+00 for iteration i=5
+[DEBUG] (Total) convergence ratio: multipole(l)-sum of (N_l[i+1]-N_l[i])/N_l[i]=2.363360e+00 for iteration i=6
+[DEBUG] (Total) convergence ratio: multipole(l)-sum of (N_l[i+1]-N_l[i])/N_l[i]=5.904632e-01 for iteration i=7
+[DEBUG] (Total) convergence ratio: multipole(l)-sum of (N_l[i+1]-N_l[i])/N_l[i]=1.475313e-01 for iteration i=8
+[DEBUG] (Total) convergence ratio: multipole(l)-sum of (N_l[i+1]-N_l[i])/N_l[i]=3.686235e-02 for iteration i=9
+[DEBUG] (Total) convergence ratio: multipole(l)-sum of (N_l[i+1]-N_l[i])/N_l[i]=9.210483e-03 for iteration i=10
+[DEBUG] (Total) convergence ratio: multipole(l)-sum of (N_l[i+1]-N_l[i])/N_l[i]=2.301347e-03 for iteration i=11
+[DEBUG] (Total) convergence ratio: multipole(l)-sum of (N_l[i+1]-N_l[i])/N_l[i]=5.750434e-04 for iteration i=12
+[DEBUG] (Total) convergence ratio: multipole(l)-sum of (N_l[i+1]-N_l[i])/N_l[i]=1.436664e-04 for iteration i=13
+[DEBUG] (Total) convergence ratio: multipole(l)-sum of (N_l[i+1]-N_l[i])/N_l[i]=3.588465e-05 for iteration i=14
+[DEBUG] (Total) convergence ratio: multipole(l)-sum of (N_l[i+1]-N_l[i])/N_l[i]=8.981441e-06 for iteration i=15
+Calculating cmb temperature noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_temp_noise.dat  
+Calculating cmb polariztion noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_pol_noise.dat  
+Calculating lensing reconstruction noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_defl_noise.dat  
+Using CMB spectra calculated by CLASS.
+Using *lensed* CMB spectra calculated by CLASS.
+Done calculating lensing.
+Calculating the delensed spectra.
+[DEBUG] (Total) convergence ratio: multipole(l)-sum of (N_l[i+1]-N_l[i])/N_l[i]=0.000000e+00 for iteration i=0
+[DEBUG] N_l is minimum-variance lensing noise reconstruction spectrum
+Calculating cmb temperature noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_temp_noise.dat  
+Calculating cmb polariztion noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_pol_noise.dat  
+Calculating lensing reconstruction noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_defl_noise.dat  
+Using CMB spectra calculated by CLASS.
+Using *lensed* CMB spectra calculated by CLASS.
+Done calculating lensing.
+Calculating the delensed spectra.
+[DEBUG] (Total) convergence ratio: multipole(l)-sum of (N_l[i+1]-N_l[i])/N_l[i]=0.000000e+00 for iteration i=0
+[DEBUG] N_l is minimum-variance lensing noise reconstruction spectrum
+Calculating cmb temperature noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_temp_noise.dat  
+Calculating cmb polariztion noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_pol_noise.dat  
+Calculating lensing reconstruction noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_defl_noise.dat  
+Using CMB spectra calculated by CLASS.
+Using *lensed* CMB spectra calculated by CLASS.
+Done calculating lensing.
+Calculating the delensed spectra.
+[DEBUG] (Total) convergence ratio: multipole(l)-sum of (N_l[i+1]-N_l[i])/N_l[i]=0.000000e+00 for iteration i=0
+[DEBUG] N_l is minimum-variance lensing noise reconstruction spectrum
+Calculating cmb temperature noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_temp_noise.dat  
+Calculating cmb polariztion noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_pol_noise.dat  
+Calculating lensing reconstruction noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_defl_noise.dat  
+Using CMB spectra calculated by CLASS.
+Using *lensed* CMB spectra calculated by CLASS.
+Done calculating lensing.
+Calculating the delensed spectra.
+[DEBUG] (Total) convergence ratio: multipole(l)-sum of (N_l[i+1]-N_l[i])/N_l[i]=0.000000e+00 for iteration i=0
+[DEBUG] N_l is minimum-variance lensing noise reconstruction spectrum
+Calculating cmb temperature noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_temp_noise.dat  
+Calculating cmb polariztion noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_pol_noise.dat  
+Calculating lensing reconstruction noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_defl_noise.dat  
+Using CMB spectra calculated by CLASS.
+Using *lensed* CMB spectra calculated by CLASS.
+Done calculating lensing.
+Calculating the delensed spectra.
+[DEBUG] (Total) convergence ratio: multipole(l)-sum of (N_l[i+1]-N_l[i])/N_l[i]=0.000000e+00 for iteration i=0
+[DEBUG] N_l is minimum-variance lensing noise reconstruction spectrum
+Calculating cmb temperature noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_temp_noise.dat  
+Calculating cmb polariztion noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_pol_noise.dat  
+Calculating lensing reconstruction noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_defl_noise.dat  
+Using CMB spectra calculated by CLASS.
+Using *lensed* CMB spectra calculated by CLASS.
+Done calculating lensing.
+Calculating the delensed spectra.
+[DEBUG] (Total) convergence ratio: multipole(l)-sum of (N_l[i+1]-N_l[i])/N_l[i]=0.000000e+00 for iteration i=0
+[DEBUG] N_l is minimum-variance lensing noise reconstruction spectrum
+Calculating cmb temperature noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_temp_noise.dat  
+Calculating cmb polariztion noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_pol_noise.dat  
+Calculating lensing reconstruction noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_defl_noise.dat  
+Using CMB spectra calculated by CLASS.
+Using *lensed* CMB spectra calculated by CLASS.
+Done calculating lensing.
+Calculating the delensed spectra.
+[DEBUG] (Total) convergence ratio: multipole(l)-sum of (N_l[i+1]-N_l[i])/N_l[i]=0.000000e+00 for iteration i=0
+[DEBUG] N_l is minimum-variance lensing noise reconstruction spectrum
+Calculating cmb temperature noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_temp_noise.dat  
+Calculating cmb polariztion noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_pol_noise.dat  
+Calculating lensing reconstruction noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_defl_noise.dat  
+Using CMB spectra calculated by CLASS.
+Using *lensed* CMB spectra calculated by CLASS.
+Done calculating lensing.
+Calculating the delensed spectra.
+[DEBUG] (Total) convergence ratio: multipole(l)-sum of (N_l[i+1]-N_l[i])/N_l[i]=0.000000e+00 for iteration i=0
+[DEBUG] N_l is minimum-variance lensing noise reconstruction spectrum
+Calculating cmb temperature noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_temp_noise.dat  
+Calculating cmb polariztion noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_pol_noise.dat  
+Calculating lensing reconstruction noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_defl_noise.dat  
+Using CMB spectra calculated by CLASS.
+Using *lensed* CMB spectra calculated by CLASS.
+Done calculating lensing.
+Calculating the delensed spectra.
+[DEBUG] (Total) convergence ratio: multipole(l)-sum of (N_l[i+1]-N_l[i])/N_l[i]=0.000000e+00 for iteration i=0
+[DEBUG] N_l is minimum-variance lensing noise reconstruction spectrum
+Calculating cmb temperature noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_temp_noise.dat  
+Calculating cmb polariztion noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_pol_noise.dat  
+Calculating lensing reconstruction noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_defl_noise.dat  
+Using CMB spectra calculated by CLASS.
+Using *lensed* CMB spectra calculated by CLASS.
+Done calculating lensing.
+Calculating the delensed spectra.
+[DEBUG] (Total) convergence ratio: multipole(l)-sum of (N_l[i+1]-N_l[i])/N_l[i]=0.000000e+00 for iteration i=0
+[DEBUG] N_l is minimum-variance lensing noise reconstruction spectrum
+Calculating cmb temperature noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_temp_noise.dat  
+Calculating cmb polariztion noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_pol_noise.dat  
+Calculating lensing reconstruction noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_defl_noise.dat  
+Using CMB spectra calculated by CLASS.
+Using *lensed* CMB spectra calculated by CLASS.
+Done calculating lensing.
+Calculating the delensed spectra.
+[DEBUG] (Total) convergence ratio: multipole(l)-sum of (N_l[i+1]-N_l[i])/N_l[i]=0.000000e+00 for iteration i=0
+[DEBUG] N_l is minimum-variance lensing noise reconstruction spectrum
+Calculating cmb temperature noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_temp_noise.dat  
+Calculating cmb polariztion noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_pol_noise.dat  
+Calculating lensing reconstruction noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_defl_noise.dat  
+Using CMB spectra calculated by CLASS.
+Using *lensed* CMB spectra calculated by CLASS.
+Done calculating lensing.
+Calculating the delensed spectra.
+[DEBUG] (Total) convergence ratio: multipole(l)-sum of (N_l[i+1]-N_l[i])/N_l[i]=0.000000e+00 for iteration i=0
+[DEBUG] N_l is minimum-variance lensing noise reconstruction spectrum
+Calculating cmb temperature noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_temp_noise.dat  
+Calculating cmb polariztion noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_pol_noise.dat  
+Calculating lensing reconstruction noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_defl_noise.dat  
+Using CMB spectra calculated by CLASS.
+Using *lensed* CMB spectra calculated by CLASS.
+Done calculating lensing.
+Calculating the delensed spectra.
+[DEBUG] (Total) convergence ratio: multipole(l)-sum of (N_l[i+1]-N_l[i])/N_l[i]=0.000000e+00 for iteration i=0
+[DEBUG] N_l is minimum-variance lensing noise reconstruction spectrum
+Calculating cmb temperature noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_temp_noise.dat  
+Calculating cmb polariztion noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_pol_noise.dat  
+Calculating lensing reconstruction noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_defl_noise.dat  
+Using CMB spectra calculated by CLASS.
+Using *lensed* CMB spectra calculated by CLASS.
+Done calculating lensing.
+Calculating the delensed spectra.
+[DEBUG] (Total) convergence ratio: multipole(l)-sum of (N_l[i+1]-N_l[i])/N_l[i]=0.000000e+00 for iteration i=0
+[DEBUG] N_l is minimum-variance lensing noise reconstruction spectrum
+Calculating cmb temperature noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_temp_noise.dat  
+Calculating cmb polariztion noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_pol_noise.dat  
+Calculating lensing reconstruction noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_defl_noise.dat  
+Using CMB spectra calculated by CLASS.
+Using *lensed* CMB spectra calculated by CLASS.
+Done calculating lensing.
+Calculating the delensed spectra.
+[DEBUG] (Total) convergence ratio: multipole(l)-sum of (N_l[i+1]-N_l[i])/N_l[i]=0.000000e+00 for iteration i=0
+[DEBUG] N_l is minimum-variance lensing noise reconstruction spectrum
+Calculating cmb temperature noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_temp_noise.dat  
+Calculating cmb polariztion noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_pol_noise.dat  
+Calculating lensing reconstruction noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_defl_noise.dat  
+Using CMB spectra calculated by CLASS.
+Using *lensed* CMB spectra calculated by CLASS.
+Done calculating lensing.
+Calculating the delensed spectra.
+[DEBUG] (Total) convergence ratio: multipole(l)-sum of (N_l[i+1]-N_l[i])/N_l[i]=0.000000e+00 for iteration i=0
+[DEBUG] N_l is minimum-variance lensing noise reconstruction spectrum
+/projects/caps/srinirag/git/CMB-S4_DRAFT/fisherTools.py:172: RuntimeWarning: divide by zero encountered in true_divide
+  runningTotal += 1/cmbNoiseSpectra[f][polComb]
+get_fisher_withdelensing.py:258: RuntimeWarning: divide by zero encountered in true_divide
+  runningTotal += 1/cmbNoiseSpectra[k][polComb]
+get_fisher_withdelensing.py:260: RuntimeWarning: divide by zero encountered in true_divide
+  runningTotal += 1/planckNoise[polComb]
+
+get noise spectra
+	** noiseSpectra: using analytic beam
+
+get noise spectra
+	** noiseSpectra: using analytic beam
+
+get noise spectra
+	** noiseSpectra: using analytic beam
+
+get noise spectra
+	** noiseSpectra: using analytic beam
+
+get noise spectra
+	** noiseSpectra: using analytic beam
+
+get noise spectra
+	** noiseSpectra: using analytic beam
+
+get noise spectra
+	** noiseSpectra: using analytic beam
+Node 0 working on experiment 0
+
+		Executing CLASS with CLASS_delens/./class ./CLASS_delens/data/Node_0/input/fisher_8p_0.ini
+#####
+
+  getting deriv w.r.t. omega_c_h2
+
+		Executing CLASS with CLASS_delens/./class ./CLASS_delens/data/Node_0/input/fisher_8p_0.ini
+
+		Executing CLASS with CLASS_delens/./class ./CLASS_delens/data/Node_0/input/fisher_8p_0.ini
+#####
+
+  getting deriv w.r.t. omega_b_h2
+
+		Executing CLASS with CLASS_delens/./class ./CLASS_delens/data/Node_0/input/fisher_8p_0.ini
+
+		Executing CLASS with CLASS_delens/./class ./CLASS_delens/data/Node_0/input/fisher_8p_0.ini
+#####
+
+  getting deriv w.r.t. N_eff
+
+		Executing CLASS with CLASS_delens/./class ./CLASS_delens/data/Node_0/input/fisher_8p_0.ini
+
+		Executing CLASS with CLASS_delens/./class ./CLASS_delens/data/Node_0/input/fisher_8p_0.ini
+#####
+
+  getting deriv w.r.t. A_s
+
+		Executing CLASS with CLASS_delens/./class ./CLASS_delens/data/Node_0/input/fisher_8p_0.ini
+
+		Executing CLASS with CLASS_delens/./class ./CLASS_delens/data/Node_0/input/fisher_8p_0.ini
+#####
+
+  getting deriv w.r.t. n_s
+
+		Executing CLASS with CLASS_delens/./class ./CLASS_delens/data/Node_0/input/fisher_8p_0.ini
+
+		Executing CLASS with CLASS_delens/./class ./CLASS_delens/data/Node_0/input/fisher_8p_0.ini
+#####
+
+  getting deriv w.r.t. tau
+
+		Executing CLASS with CLASS_delens/./class ./CLASS_delens/data/Node_0/input/fisher_8p_0.ini
+
+		Executing CLASS with CLASS_delens/./class ./CLASS_delens/data/Node_0/input/fisher_8p_0.ini
+#####
+
+  getting deriv w.r.t. theta_s
+
+		Executing CLASS with CLASS_delens/./class ./CLASS_delens/data/Node_0/input/fisher_8p_0.ini
+
+		Executing CLASS with CLASS_delens/./class ./CLASS_delens/data/Node_0/input/fisher_8p_0.ini
+#####
+
+  getting deriv w.r.t. mnu
+
+		Executing CLASS with CLASS_delens/./class ./CLASS_delens/data/Node_0/input/fisher_8p_0.ini
+
+		Executing CLASS with CLASS_delens/./class ./CLASS_delens/data/Node_0/input/fisher_8p_0.ini
+Using ellsToUse passed by user.
+Node 0 finished all experiments
+Node 0 saving data
+
+
+Node 0 saving data complete. Check results/20210506_with202102designtoolinputforpySM3sims_sedscalingfordust/s4_so_joint_configs//s4deepv3r025/s4deepv3r025_ilc_galaxy0_27-39-93-145-225-278_TT-EE_for3years.npy
+
+
+	total time take = 11.158 minutes
+Calculating cmb temperature noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_temp_noise.dat  
+Calculating cmb polariztion noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_pol_noise.dat  
+Will calculate lensing reconstruction noise spectra estimate from lensed CMB spectra a la astro-ph/0301031.
+Using CMB spectra calculated by CLASS.
+Using *lensed* CMB spectra calculated by CLASS.
+Done calculating lensing.
+Calculating the delensed spectra.
+[DEBUG] (Total) convergence ratio: multipole(l)-sum of (N_l[i+1]-N_l[i])/N_l[i]=0.000000e+00 for iteration i=0
+[DEBUG] N_l is minimum-variance lensing noise reconstruction spectrum
+[DEBUG] (Total) convergence ratio: multipole(l)-sum of (N_l[i+1]-N_l[i])/N_l[i]=3.302635e+03 for iteration i=1
+[DEBUG] (Total) convergence ratio: multipole(l)-sum of (N_l[i+1]-N_l[i])/N_l[i]=7.325973e+02 for iteration i=2
+[DEBUG] (Total) convergence ratio: multipole(l)-sum of (N_l[i+1]-N_l[i])/N_l[i]=1.891296e+02 for iteration i=3
+[DEBUG] (Total) convergence ratio: multipole(l)-sum of (N_l[i+1]-N_l[i])/N_l[i]=4.993014e+01 for iteration i=4
+[DEBUG] (Total) convergence ratio: multipole(l)-sum of (N_l[i+1]-N_l[i])/N_l[i]=1.324835e+01 for iteration i=5
+[DEBUG] (Total) convergence ratio: multipole(l)-sum of (N_l[i+1]-N_l[i])/N_l[i]=3.519854e+00 for iteration i=6
+[DEBUG] (Total) convergence ratio: multipole(l)-sum of (N_l[i+1]-N_l[i])/N_l[i]=9.354831e-01 for iteration i=7
+[DEBUG] (Total) convergence ratio: multipole(l)-sum of (N_l[i+1]-N_l[i])/N_l[i]=2.486490e-01 for iteration i=8
+[DEBUG] (Total) convergence ratio: multipole(l)-sum of (N_l[i+1]-N_l[i])/N_l[i]=6.609186e-02 for iteration i=9
+[DEBUG] (Total) convergence ratio: multipole(l)-sum of (N_l[i+1]-N_l[i])/N_l[i]=1.756759e-02 for iteration i=10
+[DEBUG] (Total) convergence ratio: multipole(l)-sum of (N_l[i+1]-N_l[i])/N_l[i]=4.669556e-03 for iteration i=11
+[DEBUG] (Total) convergence ratio: multipole(l)-sum of (N_l[i+1]-N_l[i])/N_l[i]=1.241212e-03 for iteration i=12
+[DEBUG] (Total) convergence ratio: multipole(l)-sum of (N_l[i+1]-N_l[i])/N_l[i]=3.299224e-04 for iteration i=13
+[DEBUG] (Total) convergence ratio: multipole(l)-sum of (N_l[i+1]-N_l[i])/N_l[i]=8.768721e-05 for iteration i=14
+[DEBUG] (Total) convergence ratio: multipole(l)-sum of (N_l[i+1]-N_l[i])/N_l[i]=2.331999e-05 for iteration i=15
+[DEBUG] (Total) convergence ratio: multipole(l)-sum of (N_l[i+1]-N_l[i])/N_l[i]=6.173755e-06 for iteration i=16
+Calculating cmb temperature noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_temp_noise.dat  
+Calculating cmb polariztion noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_pol_noise.dat  
+Calculating lensing reconstruction noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_defl_noise.dat  
+Using CMB spectra calculated by CLASS.
+Using *lensed* CMB spectra calculated by CLASS.
+Done calculating lensing.
+Calculating the delensed spectra.
+[DEBUG] (Total) convergence ratio: multipole(l)-sum of (N_l[i+1]-N_l[i])/N_l[i]=0.000000e+00 for iteration i=0
+[DEBUG] N_l is minimum-variance lensing noise reconstruction spectrum
+Calculating cmb temperature noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_temp_noise.dat  
+Calculating cmb polariztion noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_pol_noise.dat  
+Calculating lensing reconstruction noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_defl_noise.dat  
+Using CMB spectra calculated by CLASS.
+Using *lensed* CMB spectra calculated by CLASS.
+Done calculating lensing.
+Calculating the delensed spectra.
+[DEBUG] (Total) convergence ratio: multipole(l)-sum of (N_l[i+1]-N_l[i])/N_l[i]=0.000000e+00 for iteration i=0
+[DEBUG] N_l is minimum-variance lensing noise reconstruction spectrum
+Calculating cmb temperature noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_temp_noise.dat  
+Calculating cmb polariztion noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_pol_noise.dat  
+Calculating lensing reconstruction noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_defl_noise.dat  
+Using CMB spectra calculated by CLASS.
+Using *lensed* CMB spectra calculated by CLASS.
+Done calculating lensing.
+Calculating the delensed spectra.
+[DEBUG] (Total) convergence ratio: multipole(l)-sum of (N_l[i+1]-N_l[i])/N_l[i]=0.000000e+00 for iteration i=0
+[DEBUG] N_l is minimum-variance lensing noise reconstruction spectrum
+Calculating cmb temperature noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_temp_noise.dat  
+Calculating cmb polariztion noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_pol_noise.dat  
+Calculating lensing reconstruction noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_defl_noise.dat  
+Using CMB spectra calculated by CLASS.
+Using *lensed* CMB spectra calculated by CLASS.
+Done calculating lensing.
+Calculating the delensed spectra.
+[DEBUG] (Total) convergence ratio: multipole(l)-sum of (N_l[i+1]-N_l[i])/N_l[i]=0.000000e+00 for iteration i=0
+[DEBUG] N_l is minimum-variance lensing noise reconstruction spectrum
+Calculating cmb temperature noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_temp_noise.dat  
+Calculating cmb polariztion noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_pol_noise.dat  
+Calculating lensing reconstruction noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_defl_noise.dat  
+Using CMB spectra calculated by CLASS.
+Using *lensed* CMB spectra calculated by CLASS.
+Done calculating lensing.
+Calculating the delensed spectra.
+[DEBUG] (Total) convergence ratio: multipole(l)-sum of (N_l[i+1]-N_l[i])/N_l[i]=0.000000e+00 for iteration i=0
+[DEBUG] N_l is minimum-variance lensing noise reconstruction spectrum
+Calculating cmb temperature noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_temp_noise.dat  
+Calculating cmb polariztion noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_pol_noise.dat  
+Calculating lensing reconstruction noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_defl_noise.dat  
+Using CMB spectra calculated by CLASS.
+Using *lensed* CMB spectra calculated by CLASS.
+Done calculating lensing.
+Calculating the delensed spectra.
+[DEBUG] (Total) convergence ratio: multipole(l)-sum of (N_l[i+1]-N_l[i])/N_l[i]=0.000000e+00 for iteration i=0
+[DEBUG] N_l is minimum-variance lensing noise reconstruction spectrum
+Calculating cmb temperature noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_temp_noise.dat  
+Calculating cmb polariztion noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_pol_noise.dat  
+Calculating lensing reconstruction noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_defl_noise.dat  
+Using CMB spectra calculated by CLASS.
+Using *lensed* CMB spectra calculated by CLASS.
+Done calculating lensing.
+Calculating the delensed spectra.
+[DEBUG] (Total) convergence ratio: multipole(l)-sum of (N_l[i+1]-N_l[i])/N_l[i]=0.000000e+00 for iteration i=0
+[DEBUG] N_l is minimum-variance lensing noise reconstruction spectrum
+Calculating cmb temperature noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_temp_noise.dat  
+Calculating cmb polariztion noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_pol_noise.dat  
+Calculating lensing reconstruction noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_defl_noise.dat  
+Using CMB spectra calculated by CLASS.
+Using *lensed* CMB spectra calculated by CLASS.
+Done calculating lensing.
+Calculating the delensed spectra.
+[DEBUG] (Total) convergence ratio: multipole(l)-sum of (N_l[i+1]-N_l[i])/N_l[i]=0.000000e+00 for iteration i=0
+[DEBUG] N_l is minimum-variance lensing noise reconstruction spectrum
+Calculating cmb temperature noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_temp_noise.dat  
+Calculating cmb polariztion noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_pol_noise.dat  
+Calculating lensing reconstruction noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_defl_noise.dat  
+Using CMB spectra calculated by CLASS.
+Using *lensed* CMB spectra calculated by CLASS.
+Done calculating lensing.
+Calculating the delensed spectra.
+[DEBUG] (Total) convergence ratio: multipole(l)-sum of (N_l[i+1]-N_l[i])/N_l[i]=0.000000e+00 for iteration i=0
+[DEBUG] N_l is minimum-variance lensing noise reconstruction spectrum
+Calculating cmb temperature noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_temp_noise.dat  
+Calculating cmb polariztion noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_pol_noise.dat  
+Calculating lensing reconstruction noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_defl_noise.dat  
+Using CMB spectra calculated by CLASS.
+Using *lensed* CMB spectra calculated by CLASS.
+Done calculating lensing.
+Calculating the delensed spectra.
+[DEBUG] (Total) convergence ratio: multipole(l)-sum of (N_l[i+1]-N_l[i])/N_l[i]=0.000000e+00 for iteration i=0
+[DEBUG] N_l is minimum-variance lensing noise reconstruction spectrum
+Calculating cmb temperature noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_temp_noise.dat  
+Calculating cmb polariztion noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_pol_noise.dat  
+Calculating lensing reconstruction noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_defl_noise.dat  
+Using CMB spectra calculated by CLASS.
+Using *lensed* CMB spectra calculated by CLASS.
+Done calculating lensing.
+Calculating the delensed spectra.
+[DEBUG] (Total) convergence ratio: multipole(l)-sum of (N_l[i+1]-N_l[i])/N_l[i]=0.000000e+00 for iteration i=0
+[DEBUG] N_l is minimum-variance lensing noise reconstruction spectrum
+Calculating cmb temperature noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_temp_noise.dat  
+Calculating cmb polariztion noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_pol_noise.dat  
+Calculating lensing reconstruction noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_defl_noise.dat  
+Using CMB spectra calculated by CLASS.
+Using *lensed* CMB spectra calculated by CLASS.
+Done calculating lensing.
+Calculating the delensed spectra.
+[DEBUG] (Total) convergence ratio: multipole(l)-sum of (N_l[i+1]-N_l[i])/N_l[i]=0.000000e+00 for iteration i=0
+[DEBUG] N_l is minimum-variance lensing noise reconstruction spectrum
+Calculating cmb temperature noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_temp_noise.dat  
+Calculating cmb polariztion noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_pol_noise.dat  
+Calculating lensing reconstruction noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_defl_noise.dat  
+Using CMB spectra calculated by CLASS.
+Using *lensed* CMB spectra calculated by CLASS.
+Done calculating lensing.
+Calculating the delensed spectra.
+[DEBUG] (Total) convergence ratio: multipole(l)-sum of (N_l[i+1]-N_l[i])/N_l[i]=0.000000e+00 for iteration i=0
+[DEBUG] N_l is minimum-variance lensing noise reconstruction spectrum
+Calculating cmb temperature noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_temp_noise.dat  
+Calculating cmb polariztion noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_pol_noise.dat  
+Calculating lensing reconstruction noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_defl_noise.dat  
+Using CMB spectra calculated by CLASS.
+Using *lensed* CMB spectra calculated by CLASS.
+Done calculating lensing.
+Calculating the delensed spectra.
+[DEBUG] (Total) convergence ratio: multipole(l)-sum of (N_l[i+1]-N_l[i])/N_l[i]=0.000000e+00 for iteration i=0
+[DEBUG] N_l is minimum-variance lensing noise reconstruction spectrum
+Calculating cmb temperature noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_temp_noise.dat  
+Calculating cmb polariztion noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_pol_noise.dat  
+Calculating lensing reconstruction noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_defl_noise.dat  
+Using CMB spectra calculated by CLASS.
+Using *lensed* CMB spectra calculated by CLASS.
+Done calculating lensing.
+Calculating the delensed spectra.
+[DEBUG] (Total) convergence ratio: multipole(l)-sum of (N_l[i+1]-N_l[i])/N_l[i]=0.000000e+00 for iteration i=0
+[DEBUG] N_l is minimum-variance lensing noise reconstruction spectrum
+Calculating cmb temperature noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_temp_noise.dat  
+Calculating cmb polariztion noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_pol_noise.dat  
+Calculating lensing reconstruction noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_defl_noise.dat  
+Using CMB spectra calculated by CLASS.
+Using *lensed* CMB spectra calculated by CLASS.
+Done calculating lensing.
+Calculating the delensed spectra.
+[DEBUG] (Total) convergence ratio: multipole(l)-sum of (N_l[i+1]-N_l[i])/N_l[i]=0.000000e+00 for iteration i=0
+[DEBUG] N_l is minimum-variance lensing noise reconstruction spectrum
+/projects/caps/srinirag/git/CMB-S4_DRAFT/fisherTools.py:172: RuntimeWarning: divide by zero encountered in true_divide
+  runningTotal += 1/cmbNoiseSpectra[f][polComb]
+get_fisher_withdelensing.py:258: RuntimeWarning: divide by zero encountered in true_divide
+  runningTotal += 1/cmbNoiseSpectra[k][polComb]
+get_fisher_withdelensing.py:260: RuntimeWarning: divide by zero encountered in true_divide
+  runningTotal += 1/planckNoise[polComb]
+
+get noise spectra
+	** noiseSpectra: using analytic beam
+
+get noise spectra
+	** noiseSpectra: using analytic beam
+
+get noise spectra
+	** noiseSpectra: using analytic beam
+
+get noise spectra
+	** noiseSpectra: using analytic beam
+
+get noise spectra
+	** noiseSpectra: using analytic beam
+
+get noise spectra
+	** noiseSpectra: using analytic beam
+
+get noise spectra
+	** noiseSpectra: using analytic beam
+Node 0 working on experiment 0
+
+		Executing CLASS with CLASS_delens/./class ./CLASS_delens/data/Node_0/input/fisher_8p_0.ini
+#####
+
+  getting deriv w.r.t. omega_c_h2
+
+		Executing CLASS with CLASS_delens/./class ./CLASS_delens/data/Node_0/input/fisher_8p_0.ini
+
+		Executing CLASS with CLASS_delens/./class ./CLASS_delens/data/Node_0/input/fisher_8p_0.ini
+#####
+
+  getting deriv w.r.t. omega_b_h2
+
+		Executing CLASS with CLASS_delens/./class ./CLASS_delens/data/Node_0/input/fisher_8p_0.ini
+
+		Executing CLASS with CLASS_delens/./class ./CLASS_delens/data/Node_0/input/fisher_8p_0.ini
+#####
+
+  getting deriv w.r.t. N_eff
+
+		Executing CLASS with CLASS_delens/./class ./CLASS_delens/data/Node_0/input/fisher_8p_0.ini
+
+		Executing CLASS with CLASS_delens/./class ./CLASS_delens/data/Node_0/input/fisher_8p_0.ini
+#####
+
+  getting deriv w.r.t. A_s
+
+		Executing CLASS with CLASS_delens/./class ./CLASS_delens/data/Node_0/input/fisher_8p_0.ini
+
+		Executing CLASS with CLASS_delens/./class ./CLASS_delens/data/Node_0/input/fisher_8p_0.ini
+#####
+
+  getting deriv w.r.t. n_s
+
+		Executing CLASS with CLASS_delens/./class ./CLASS_delens/data/Node_0/input/fisher_8p_0.ini
+
+		Executing CLASS with CLASS_delens/./class ./CLASS_delens/data/Node_0/input/fisher_8p_0.ini
+#####
+
+  getting deriv w.r.t. tau
+
+		Executing CLASS with CLASS_delens/./class ./CLASS_delens/data/Node_0/input/fisher_8p_0.ini
+
+		Executing CLASS with CLASS_delens/./class ./CLASS_delens/data/Node_0/input/fisher_8p_0.ini
+#####
+
+  getting deriv w.r.t. theta_s
+
+		Executing CLASS with CLASS_delens/./class ./CLASS_delens/data/Node_0/input/fisher_8p_0.ini
+
+		Executing CLASS with CLASS_delens/./class ./CLASS_delens/data/Node_0/input/fisher_8p_0.ini
+#####
+
+  getting deriv w.r.t. mnu
+
+		Executing CLASS with CLASS_delens/./class ./CLASS_delens/data/Node_0/input/fisher_8p_0.ini
+
+		Executing CLASS with CLASS_delens/./class ./CLASS_delens/data/Node_0/input/fisher_8p_0.ini
+Using ellsToUse passed by user.
+Node 0 finished all experiments
+Node 0 saving data
+
+
+Node 0 saving data complete. Check results/20210506_with202102designtoolinputforpySM3sims_sedscalingfordust/s4_so_joint_configs//s4deepv3r025/s4deepv3r025_ilc_galaxy0_27-39-93-145-225-278_TT-EE_for4years.npy
+
+
+	total time take = 11.103 minutes
+Calculating cmb temperature noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_temp_noise.dat  
+Calculating cmb polariztion noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_pol_noise.dat  
+Will calculate lensing reconstruction noise spectra estimate from lensed CMB spectra a la astro-ph/0301031.
+Using CMB spectra calculated by CLASS.
+Using *lensed* CMB spectra calculated by CLASS.
+Done calculating lensing.
+Calculating the delensed spectra.
+[DEBUG] (Total) convergence ratio: multipole(l)-sum of (N_l[i+1]-N_l[i])/N_l[i]=0.000000e+00 for iteration i=0
+[DEBUG] N_l is minimum-variance lensing noise reconstruction spectrum
+[DEBUG] (Total) convergence ratio: multipole(l)-sum of (N_l[i+1]-N_l[i])/N_l[i]=3.558662e+03 for iteration i=1
+[DEBUG] (Total) convergence ratio: multipole(l)-sum of (N_l[i+1]-N_l[i])/N_l[i]=8.202327e+02 for iteration i=2
+[DEBUG] (Total) convergence ratio: multipole(l)-sum of (N_l[i+1]-N_l[i])/N_l[i]=2.209068e+02 for iteration i=3
+[DEBUG] (Total) convergence ratio: multipole(l)-sum of (N_l[i+1]-N_l[i])/N_l[i]=6.092972e+01 for iteration i=4
+[DEBUG] (Total) convergence ratio: multipole(l)-sum of (N_l[i+1]-N_l[i])/N_l[i]=1.690026e+01 for iteration i=5
+[DEBUG] (Total) convergence ratio: multipole(l)-sum of (N_l[i+1]-N_l[i])/N_l[i]=4.694780e+00 for iteration i=6
+[DEBUG] (Total) convergence ratio: multipole(l)-sum of (N_l[i+1]-N_l[i])/N_l[i]=1.304724e+00 for iteration i=7
+[DEBUG] (Total) convergence ratio: multipole(l)-sum of (N_l[i+1]-N_l[i])/N_l[i]=3.626375e-01 for iteration i=8
+[DEBUG] (Total) convergence ratio: multipole(l)-sum of (N_l[i+1]-N_l[i])/N_l[i]=1.007954e-01 for iteration i=9
+[DEBUG] (Total) convergence ratio: multipole(l)-sum of (N_l[i+1]-N_l[i])/N_l[i]=2.801640e-02 for iteration i=10
+[DEBUG] (Total) convergence ratio: multipole(l)-sum of (N_l[i+1]-N_l[i])/N_l[i]=7.787285e-03 for iteration i=11
+[DEBUG] (Total) convergence ratio: multipole(l)-sum of (N_l[i+1]-N_l[i])/N_l[i]=2.164507e-03 for iteration i=12
+[DEBUG] (Total) convergence ratio: multipole(l)-sum of (N_l[i+1]-N_l[i])/N_l[i]=6.016216e-04 for iteration i=13
+[DEBUG] (Total) convergence ratio: multipole(l)-sum of (N_l[i+1]-N_l[i])/N_l[i]=1.672314e-04 for iteration i=14
+[DEBUG] (Total) convergence ratio: multipole(l)-sum of (N_l[i+1]-N_l[i])/N_l[i]=4.648884e-05 for iteration i=15
+[DEBUG] (Total) convergence ratio: multipole(l)-sum of (N_l[i+1]-N_l[i])/N_l[i]=1.292020e-05 for iteration i=16
+[DEBUG] (Total) convergence ratio: multipole(l)-sum of (N_l[i+1]-N_l[i])/N_l[i]=3.595654e-06 for iteration i=17
+Calculating cmb temperature noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_temp_noise.dat  
+Calculating cmb polariztion noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_pol_noise.dat  
+Calculating lensing reconstruction noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_defl_noise.dat  
+Using CMB spectra calculated by CLASS.
+Using *lensed* CMB spectra calculated by CLASS.
+Done calculating lensing.
+Calculating the delensed spectra.
+[DEBUG] (Total) convergence ratio: multipole(l)-sum of (N_l[i+1]-N_l[i])/N_l[i]=0.000000e+00 for iteration i=0
+[DEBUG] N_l is minimum-variance lensing noise reconstruction spectrum
+Calculating cmb temperature noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_temp_noise.dat  
+Calculating cmb polariztion noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_pol_noise.dat  
+Calculating lensing reconstruction noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_defl_noise.dat  
+Using CMB spectra calculated by CLASS.
+Using *lensed* CMB spectra calculated by CLASS.
+Done calculating lensing.
+Calculating the delensed spectra.
+[DEBUG] (Total) convergence ratio: multipole(l)-sum of (N_l[i+1]-N_l[i])/N_l[i]=0.000000e+00 for iteration i=0
+[DEBUG] N_l is minimum-variance lensing noise reconstruction spectrum
+Calculating cmb temperature noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_temp_noise.dat  
+Calculating cmb polariztion noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_pol_noise.dat  
+Calculating lensing reconstruction noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_defl_noise.dat  
+Using CMB spectra calculated by CLASS.
+Using *lensed* CMB spectra calculated by CLASS.
+Done calculating lensing.
+Calculating the delensed spectra.
+[DEBUG] (Total) convergence ratio: multipole(l)-sum of (N_l[i+1]-N_l[i])/N_l[i]=0.000000e+00 for iteration i=0
+[DEBUG] N_l is minimum-variance lensing noise reconstruction spectrum
+Calculating cmb temperature noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_temp_noise.dat  
+Calculating cmb polariztion noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_pol_noise.dat  
+Calculating lensing reconstruction noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_defl_noise.dat  
+Using CMB spectra calculated by CLASS.
+Using *lensed* CMB spectra calculated by CLASS.
+Done calculating lensing.
+Calculating the delensed spectra.
+[DEBUG] (Total) convergence ratio: multipole(l)-sum of (N_l[i+1]-N_l[i])/N_l[i]=0.000000e+00 for iteration i=0
+[DEBUG] N_l is minimum-variance lensing noise reconstruction spectrum
+Calculating cmb temperature noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_temp_noise.dat  
+Calculating cmb polariztion noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_pol_noise.dat  
+Calculating lensing reconstruction noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_defl_noise.dat  
+Using CMB spectra calculated by CLASS.
+Using *lensed* CMB spectra calculated by CLASS.
+Done calculating lensing.
+Calculating the delensed spectra.
+[DEBUG] (Total) convergence ratio: multipole(l)-sum of (N_l[i+1]-N_l[i])/N_l[i]=0.000000e+00 for iteration i=0
+[DEBUG] N_l is minimum-variance lensing noise reconstruction spectrum
+Calculating cmb temperature noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_temp_noise.dat  
+Calculating cmb polariztion noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_pol_noise.dat  
+Calculating lensing reconstruction noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_defl_noise.dat  
+Using CMB spectra calculated by CLASS.
+Using *lensed* CMB spectra calculated by CLASS.
+Done calculating lensing.
+Calculating the delensed spectra.
+[DEBUG] (Total) convergence ratio: multipole(l)-sum of (N_l[i+1]-N_l[i])/N_l[i]=0.000000e+00 for iteration i=0
+[DEBUG] N_l is minimum-variance lensing noise reconstruction spectrum
+Calculating cmb temperature noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_temp_noise.dat  
+Calculating cmb polariztion noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_pol_noise.dat  
+Calculating lensing reconstruction noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_defl_noise.dat  
+Using CMB spectra calculated by CLASS.
+Using *lensed* CMB spectra calculated by CLASS.
+Done calculating lensing.
+Calculating the delensed spectra.
+[DEBUG] (Total) convergence ratio: multipole(l)-sum of (N_l[i+1]-N_l[i])/N_l[i]=0.000000e+00 for iteration i=0
+[DEBUG] N_l is minimum-variance lensing noise reconstruction spectrum
+Calculating cmb temperature noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_temp_noise.dat  
+Calculating cmb polariztion noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_pol_noise.dat  
+Calculating lensing reconstruction noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_defl_noise.dat  
+Using CMB spectra calculated by CLASS.
+Using *lensed* CMB spectra calculated by CLASS.
+Done calculating lensing.
+Calculating the delensed spectra.
+[DEBUG] (Total) convergence ratio: multipole(l)-sum of (N_l[i+1]-N_l[i])/N_l[i]=0.000000e+00 for iteration i=0
+[DEBUG] N_l is minimum-variance lensing noise reconstruction spectrum
+Calculating cmb temperature noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_temp_noise.dat  
+Calculating cmb polariztion noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_pol_noise.dat  
+Calculating lensing reconstruction noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_defl_noise.dat  
+Using CMB spectra calculated by CLASS.
+Using *lensed* CMB spectra calculated by CLASS.
+Done calculating lensing.
+Calculating the delensed spectra.
+[DEBUG] (Total) convergence ratio: multipole(l)-sum of (N_l[i+1]-N_l[i])/N_l[i]=0.000000e+00 for iteration i=0
+[DEBUG] N_l is minimum-variance lensing noise reconstruction spectrum
+Calculating cmb temperature noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_temp_noise.dat  
+Calculating cmb polariztion noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_pol_noise.dat  
+Calculating lensing reconstruction noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_defl_noise.dat  
+Using CMB spectra calculated by CLASS.
+Using *lensed* CMB spectra calculated by CLASS.
+Done calculating lensing.
+Calculating the delensed spectra.
+[DEBUG] (Total) convergence ratio: multipole(l)-sum of (N_l[i+1]-N_l[i])/N_l[i]=0.000000e+00 for iteration i=0
+[DEBUG] N_l is minimum-variance lensing noise reconstruction spectrum
+Calculating cmb temperature noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_temp_noise.dat  
+Calculating cmb polariztion noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_pol_noise.dat  
+Calculating lensing reconstruction noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_defl_noise.dat  
+Using CMB spectra calculated by CLASS.
+Using *lensed* CMB spectra calculated by CLASS.
+Done calculating lensing.
+Calculating the delensed spectra.
+[DEBUG] (Total) convergence ratio: multipole(l)-sum of (N_l[i+1]-N_l[i])/N_l[i]=0.000000e+00 for iteration i=0
+[DEBUG] N_l is minimum-variance lensing noise reconstruction spectrum
+Calculating cmb temperature noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_temp_noise.dat  
+Calculating cmb polariztion noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_pol_noise.dat  
+Calculating lensing reconstruction noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_defl_noise.dat  
+Using CMB spectra calculated by CLASS.
+Using *lensed* CMB spectra calculated by CLASS.
+Done calculating lensing.
+Calculating the delensed spectra.
+[DEBUG] (Total) convergence ratio: multipole(l)-sum of (N_l[i+1]-N_l[i])/N_l[i]=0.000000e+00 for iteration i=0
+[DEBUG] N_l is minimum-variance lensing noise reconstruction spectrum
+Calculating cmb temperature noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_temp_noise.dat  
+Calculating cmb polariztion noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_pol_noise.dat  
+Calculating lensing reconstruction noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_defl_noise.dat  
+Using CMB spectra calculated by CLASS.
+Using *lensed* CMB spectra calculated by CLASS.
+Done calculating lensing.
+Calculating the delensed spectra.
+[DEBUG] (Total) convergence ratio: multipole(l)-sum of (N_l[i+1]-N_l[i])/N_l[i]=0.000000e+00 for iteration i=0
+[DEBUG] N_l is minimum-variance lensing noise reconstruction spectrum
+Calculating cmb temperature noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_temp_noise.dat  
+Calculating cmb polariztion noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_pol_noise.dat  
+Calculating lensing reconstruction noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_defl_noise.dat  
+Using CMB spectra calculated by CLASS.
+Using *lensed* CMB spectra calculated by CLASS.
+Done calculating lensing.
+Calculating the delensed spectra.
+[DEBUG] (Total) convergence ratio: multipole(l)-sum of (N_l[i+1]-N_l[i])/N_l[i]=0.000000e+00 for iteration i=0
+[DEBUG] N_l is minimum-variance lensing noise reconstruction spectrum
+Calculating cmb temperature noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_temp_noise.dat  
+Calculating cmb polariztion noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_pol_noise.dat  
+Calculating lensing reconstruction noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_defl_noise.dat  
+Using CMB spectra calculated by CLASS.
+Using *lensed* CMB spectra calculated by CLASS.
+Done calculating lensing.
+Calculating the delensed spectra.
+[DEBUG] (Total) convergence ratio: multipole(l)-sum of (N_l[i+1]-N_l[i])/N_l[i]=0.000000e+00 for iteration i=0
+[DEBUG] N_l is minimum-variance lensing noise reconstruction spectrum
+Calculating cmb temperature noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_temp_noise.dat  
+Calculating cmb polariztion noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_pol_noise.dat  
+Calculating lensing reconstruction noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_defl_noise.dat  
+Using CMB spectra calculated by CLASS.
+Using *lensed* CMB spectra calculated by CLASS.
+Done calculating lensing.
+Calculating the delensed spectra.
+[DEBUG] (Total) convergence ratio: multipole(l)-sum of (N_l[i+1]-N_l[i])/N_l[i]=0.000000e+00 for iteration i=0
+[DEBUG] N_l is minimum-variance lensing noise reconstruction spectrum
+/projects/caps/srinirag/git/CMB-S4_DRAFT/fisherTools.py:172: RuntimeWarning: divide by zero encountered in true_divide
+  runningTotal += 1/cmbNoiseSpectra[f][polComb]
+get_fisher_withdelensing.py:258: RuntimeWarning: divide by zero encountered in true_divide
+  runningTotal += 1/cmbNoiseSpectra[k][polComb]
+get_fisher_withdelensing.py:260: RuntimeWarning: divide by zero encountered in true_divide
+  runningTotal += 1/planckNoise[polComb]
+
+get noise spectra
+	** noiseSpectra: using analytic beam
+
+get noise spectra
+	** noiseSpectra: using analytic beam
+
+get noise spectra
+	** noiseSpectra: using analytic beam
+
+get noise spectra
+	** noiseSpectra: using analytic beam
+
+get noise spectra
+	** noiseSpectra: using analytic beam
+
+get noise spectra
+	** noiseSpectra: using analytic beam
+
+get noise spectra
+	** noiseSpectra: using analytic beam
+Node 0 working on experiment 0
+
+		Executing CLASS with CLASS_delens/./class ./CLASS_delens/data/Node_0/input/fisher_8p_0.ini
+#####
+
+  getting deriv w.r.t. omega_c_h2
+
+		Executing CLASS with CLASS_delens/./class ./CLASS_delens/data/Node_0/input/fisher_8p_0.ini
+
+		Executing CLASS with CLASS_delens/./class ./CLASS_delens/data/Node_0/input/fisher_8p_0.ini
+#####
+
+  getting deriv w.r.t. omega_b_h2
+
+		Executing CLASS with CLASS_delens/./class ./CLASS_delens/data/Node_0/input/fisher_8p_0.ini
+
+		Executing CLASS with CLASS_delens/./class ./CLASS_delens/data/Node_0/input/fisher_8p_0.ini
+#####
+
+  getting deriv w.r.t. N_eff
+
+		Executing CLASS with CLASS_delens/./class ./CLASS_delens/data/Node_0/input/fisher_8p_0.ini
+
+		Executing CLASS with CLASS_delens/./class ./CLASS_delens/data/Node_0/input/fisher_8p_0.ini
+#####
+
+  getting deriv w.r.t. A_s
+
+		Executing CLASS with CLASS_delens/./class ./CLASS_delens/data/Node_0/input/fisher_8p_0.ini
+
+		Executing CLASS with CLASS_delens/./class ./CLASS_delens/data/Node_0/input/fisher_8p_0.ini
+#####
+
+  getting deriv w.r.t. n_s
+
+		Executing CLASS with CLASS_delens/./class ./CLASS_delens/data/Node_0/input/fisher_8p_0.ini
+
+		Executing CLASS with CLASS_delens/./class ./CLASS_delens/data/Node_0/input/fisher_8p_0.ini
+#####
+
+  getting deriv w.r.t. tau
+
+		Executing CLASS with CLASS_delens/./class ./CLASS_delens/data/Node_0/input/fisher_8p_0.ini
+
+		Executing CLASS with CLASS_delens/./class ./CLASS_delens/data/Node_0/input/fisher_8p_0.ini
+#####
+
+  getting deriv w.r.t. theta_s
+
+		Executing CLASS with CLASS_delens/./class ./CLASS_delens/data/Node_0/input/fisher_8p_0.ini
+
+		Executing CLASS with CLASS_delens/./class ./CLASS_delens/data/Node_0/input/fisher_8p_0.ini
+#####
+
+  getting deriv w.r.t. mnu
+
+		Executing CLASS with CLASS_delens/./class ./CLASS_delens/data/Node_0/input/fisher_8p_0.ini
+
+		Executing CLASS with CLASS_delens/./class ./CLASS_delens/data/Node_0/input/fisher_8p_0.ini
+Using ellsToUse passed by user.
+Node 0 finished all experiments
+Node 0 saving data
+
+
+Node 0 saving data complete. Check results/20210506_with202102designtoolinputforpySM3sims_sedscalingfordust/s4_so_joint_configs//s4deepv3r025/s4deepv3r025_ilc_galaxy0_27-39-93-145-225-278_TT-EE_for5years.npy
+
+
+	total time take = 11.676 minutes
+Calculating cmb temperature noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_temp_noise.dat  
+Calculating cmb polariztion noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_pol_noise.dat  
+Will calculate lensing reconstruction noise spectra estimate from lensed CMB spectra a la astro-ph/0301031.
+Using CMB spectra calculated by CLASS.
+Using *lensed* CMB spectra calculated by CLASS.
+Done calculating lensing.
+Calculating the delensed spectra.
+[DEBUG] (Total) convergence ratio: multipole(l)-sum of (N_l[i+1]-N_l[i])/N_l[i]=0.000000e+00 for iteration i=0
+[DEBUG] N_l is minimum-variance lensing noise reconstruction spectrum
+[DEBUG] (Total) convergence ratio: multipole(l)-sum of (N_l[i+1]-N_l[i])/N_l[i]=3.777552e+03 for iteration i=1
+[DEBUG] (Total) convergence ratio: multipole(l)-sum of (N_l[i+1]-N_l[i])/N_l[i]=8.957392e+02 for iteration i=2
+[DEBUG] (Total) convergence ratio: multipole(l)-sum of (N_l[i+1]-N_l[i])/N_l[i]=2.492188e+02 for iteration i=3
+[DEBUG] (Total) convergence ratio: multipole(l)-sum of (N_l[i+1]-N_l[i])/N_l[i]=7.110531e+01 for iteration i=4
+[DEBUG] (Total) convergence ratio: multipole(l)-sum of (N_l[i+1]-N_l[i])/N_l[i]=2.041229e+01 for iteration i=5
+[DEBUG] (Total) convergence ratio: multipole(l)-sum of (N_l[i+1]-N_l[i])/N_l[i]=5.869846e+00 for iteration i=6
+[DEBUG] (Total) convergence ratio: multipole(l)-sum of (N_l[i+1]-N_l[i])/N_l[i]=1.688789e+00 for iteration i=7
+[DEBUG] (Total) convergence ratio: multipole(l)-sum of (N_l[i+1]-N_l[i])/N_l[i]=4.859434e-01 for iteration i=8
+[DEBUG] (Total) convergence ratio: multipole(l)-sum of (N_l[i+1]-N_l[i])/N_l[i]=1.398343e-01 for iteration i=9
+[DEBUG] (Total) convergence ratio: multipole(l)-sum of (N_l[i+1]-N_l[i])/N_l[i]=4.023896e-02 for iteration i=10
+[DEBUG] (Total) convergence ratio: multipole(l)-sum of (N_l[i+1]-N_l[i])/N_l[i]=1.157927e-02 for iteration i=11
+[DEBUG] (Total) convergence ratio: multipole(l)-sum of (N_l[i+1]-N_l[i])/N_l[i]=3.332058e-03 for iteration i=12
+[DEBUG] (Total) convergence ratio: multipole(l)-sum of (N_l[i+1]-N_l[i])/N_l[i]=9.588728e-04 for iteration i=13
+[DEBUG] (Total) convergence ratio: multipole(l)-sum of (N_l[i+1]-N_l[i])/N_l[i]=2.759297e-04 for iteration i=14
+[DEBUG] (Total) convergence ratio: multipole(l)-sum of (N_l[i+1]-N_l[i])/N_l[i]=7.940366e-05 for iteration i=15
+[DEBUG] (Total) convergence ratio: multipole(l)-sum of (N_l[i+1]-N_l[i])/N_l[i]=2.285606e-05 for iteration i=16
+[DEBUG] (Total) convergence ratio: multipole(l)-sum of (N_l[i+1]-N_l[i])/N_l[i]=6.560586e-06 for iteration i=17
+Calculating cmb temperature noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_temp_noise.dat  
+Calculating cmb polariztion noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_pol_noise.dat  
+Calculating lensing reconstruction noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_defl_noise.dat  
+Using CMB spectra calculated by CLASS.
+Using *lensed* CMB spectra calculated by CLASS.
+Done calculating lensing.
+Calculating the delensed spectra.
+[DEBUG] (Total) convergence ratio: multipole(l)-sum of (N_l[i+1]-N_l[i])/N_l[i]=0.000000e+00 for iteration i=0
+[DEBUG] N_l is minimum-variance lensing noise reconstruction spectrum
+Calculating cmb temperature noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_temp_noise.dat  
+Calculating cmb polariztion noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_pol_noise.dat  
+Calculating lensing reconstruction noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_defl_noise.dat  
+Using CMB spectra calculated by CLASS.
+Using *lensed* CMB spectra calculated by CLASS.
+Done calculating lensing.
+Calculating the delensed spectra.
+[DEBUG] (Total) convergence ratio: multipole(l)-sum of (N_l[i+1]-N_l[i])/N_l[i]=0.000000e+00 for iteration i=0
+[DEBUG] N_l is minimum-variance lensing noise reconstruction spectrum
+Calculating cmb temperature noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_temp_noise.dat  
+Calculating cmb polariztion noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_pol_noise.dat  
+Calculating lensing reconstruction noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_defl_noise.dat  
+Using CMB spectra calculated by CLASS.
+Using *lensed* CMB spectra calculated by CLASS.
+Done calculating lensing.
+Calculating the delensed spectra.
+[DEBUG] (Total) convergence ratio: multipole(l)-sum of (N_l[i+1]-N_l[i])/N_l[i]=0.000000e+00 for iteration i=0
+[DEBUG] N_l is minimum-variance lensing noise reconstruction spectrum
+Calculating cmb temperature noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_temp_noise.dat  
+Calculating cmb polariztion noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_pol_noise.dat  
+Calculating lensing reconstruction noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_defl_noise.dat  
+Using CMB spectra calculated by CLASS.
+Using *lensed* CMB spectra calculated by CLASS.
+Done calculating lensing.
+Calculating the delensed spectra.
+[DEBUG] (Total) convergence ratio: multipole(l)-sum of (N_l[i+1]-N_l[i])/N_l[i]=0.000000e+00 for iteration i=0
+[DEBUG] N_l is minimum-variance lensing noise reconstruction spectrum
+Calculating cmb temperature noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_temp_noise.dat  
+Calculating cmb polariztion noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_pol_noise.dat  
+Calculating lensing reconstruction noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_defl_noise.dat  
+Using CMB spectra calculated by CLASS.
+Using *lensed* CMB spectra calculated by CLASS.
+Done calculating lensing.
+Calculating the delensed spectra.
+[DEBUG] (Total) convergence ratio: multipole(l)-sum of (N_l[i+1]-N_l[i])/N_l[i]=0.000000e+00 for iteration i=0
+[DEBUG] N_l is minimum-variance lensing noise reconstruction spectrum
+Calculating cmb temperature noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_temp_noise.dat  
+Calculating cmb polariztion noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_pol_noise.dat  
+Calculating lensing reconstruction noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_defl_noise.dat  
+Using CMB spectra calculated by CLASS.
+Using *lensed* CMB spectra calculated by CLASS.
+Done calculating lensing.
+Calculating the delensed spectra.
+[DEBUG] (Total) convergence ratio: multipole(l)-sum of (N_l[i+1]-N_l[i])/N_l[i]=0.000000e+00 for iteration i=0
+[DEBUG] N_l is minimum-variance lensing noise reconstruction spectrum
+Calculating cmb temperature noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_temp_noise.dat  
+Calculating cmb polariztion noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_pol_noise.dat  
+Calculating lensing reconstruction noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_defl_noise.dat  
+Using CMB spectra calculated by CLASS.
+Using *lensed* CMB spectra calculated by CLASS.
+Done calculating lensing.
+Calculating the delensed spectra.
+[DEBUG] (Total) convergence ratio: multipole(l)-sum of (N_l[i+1]-N_l[i])/N_l[i]=0.000000e+00 for iteration i=0
+[DEBUG] N_l is minimum-variance lensing noise reconstruction spectrum
+Calculating cmb temperature noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_temp_noise.dat  
+Calculating cmb polariztion noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_pol_noise.dat  
+Calculating lensing reconstruction noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_defl_noise.dat  
+Using CMB spectra calculated by CLASS.
+Using *lensed* CMB spectra calculated by CLASS.
+Done calculating lensing.
+Calculating the delensed spectra.
+[DEBUG] (Total) convergence ratio: multipole(l)-sum of (N_l[i+1]-N_l[i])/N_l[i]=0.000000e+00 for iteration i=0
+[DEBUG] N_l is minimum-variance lensing noise reconstruction spectrum
+Calculating cmb temperature noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_temp_noise.dat  
+Calculating cmb polariztion noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_pol_noise.dat  
+Calculating lensing reconstruction noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_defl_noise.dat  
+Using CMB spectra calculated by CLASS.
+Using *lensed* CMB spectra calculated by CLASS.
+Done calculating lensing.
+Calculating the delensed spectra.
+[DEBUG] (Total) convergence ratio: multipole(l)-sum of (N_l[i+1]-N_l[i])/N_l[i]=0.000000e+00 for iteration i=0
+[DEBUG] N_l is minimum-variance lensing noise reconstruction spectrum
+Calculating cmb temperature noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_temp_noise.dat  
+Calculating cmb polariztion noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_pol_noise.dat  
+Calculating lensing reconstruction noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_defl_noise.dat  
+Using CMB spectra calculated by CLASS.
+Using *lensed* CMB spectra calculated by CLASS.
+Done calculating lensing.
+Calculating the delensed spectra.
+[DEBUG] (Total) convergence ratio: multipole(l)-sum of (N_l[i+1]-N_l[i])/N_l[i]=0.000000e+00 for iteration i=0
+[DEBUG] N_l is minimum-variance lensing noise reconstruction spectrum
+Calculating cmb temperature noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_temp_noise.dat  
+Calculating cmb polariztion noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_pol_noise.dat  
+Calculating lensing reconstruction noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_defl_noise.dat  
+Using CMB spectra calculated by CLASS.
+Using *lensed* CMB spectra calculated by CLASS.
+Done calculating lensing.
+Calculating the delensed spectra.
+[DEBUG] (Total) convergence ratio: multipole(l)-sum of (N_l[i+1]-N_l[i])/N_l[i]=0.000000e+00 for iteration i=0
+[DEBUG] N_l is minimum-variance lensing noise reconstruction spectrum
+Calculating cmb temperature noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_temp_noise.dat  
+Calculating cmb polariztion noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_pol_noise.dat  
+Calculating lensing reconstruction noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_defl_noise.dat  
+Using CMB spectra calculated by CLASS.
+Using *lensed* CMB spectra calculated by CLASS.
+Done calculating lensing.
+Calculating the delensed spectra.
+[DEBUG] (Total) convergence ratio: multipole(l)-sum of (N_l[i+1]-N_l[i])/N_l[i]=0.000000e+00 for iteration i=0
+[DEBUG] N_l is minimum-variance lensing noise reconstruction spectrum
+Calculating cmb temperature noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_temp_noise.dat  
+Calculating cmb polariztion noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_pol_noise.dat  
+Calculating lensing reconstruction noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_defl_noise.dat  
+Using CMB spectra calculated by CLASS.
+Using *lensed* CMB spectra calculated by CLASS.
+Done calculating lensing.
+Calculating the delensed spectra.
+[DEBUG] (Total) convergence ratio: multipole(l)-sum of (N_l[i+1]-N_l[i])/N_l[i]=0.000000e+00 for iteration i=0
+[DEBUG] N_l is minimum-variance lensing noise reconstruction spectrum
+Calculating cmb temperature noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_temp_noise.dat  
+Calculating cmb polariztion noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_pol_noise.dat  
+Calculating lensing reconstruction noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_defl_noise.dat  
+Using CMB spectra calculated by CLASS.
+Using *lensed* CMB spectra calculated by CLASS.
+Done calculating lensing.
+Calculating the delensed spectra.
+[DEBUG] (Total) convergence ratio: multipole(l)-sum of (N_l[i+1]-N_l[i])/N_l[i]=0.000000e+00 for iteration i=0
+[DEBUG] N_l is minimum-variance lensing noise reconstruction spectrum
+Calculating cmb temperature noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_temp_noise.dat  
+Calculating cmb polariztion noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_pol_noise.dat  
+Calculating lensing reconstruction noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_defl_noise.dat  
+Using CMB spectra calculated by CLASS.
+Using *lensed* CMB spectra calculated by CLASS.
+Done calculating lensing.
+Calculating the delensed spectra.
+[DEBUG] (Total) convergence ratio: multipole(l)-sum of (N_l[i+1]-N_l[i])/N_l[i]=0.000000e+00 for iteration i=0
+[DEBUG] N_l is minimum-variance lensing noise reconstruction spectrum
+Calculating cmb temperature noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_temp_noise.dat  
+Calculating cmb polariztion noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_pol_noise.dat  
+Calculating lensing reconstruction noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_defl_noise.dat  
+Using CMB spectra calculated by CLASS.
+Using *lensed* CMB spectra calculated by CLASS.
+Done calculating lensing.
+Calculating the delensed spectra.
+[DEBUG] (Total) convergence ratio: multipole(l)-sum of (N_l[i+1]-N_l[i])/N_l[i]=0.000000e+00 for iteration i=0
+[DEBUG] N_l is minimum-variance lensing noise reconstruction spectrum
+/projects/caps/srinirag/git/CMB-S4_DRAFT/fisherTools.py:172: RuntimeWarning: divide by zero encountered in true_divide
+  runningTotal += 1/cmbNoiseSpectra[f][polComb]
+get_fisher_withdelensing.py:258: RuntimeWarning: divide by zero encountered in true_divide
+  runningTotal += 1/cmbNoiseSpectra[k][polComb]
+get_fisher_withdelensing.py:260: RuntimeWarning: divide by zero encountered in true_divide
+  runningTotal += 1/planckNoise[polComb]
+
+get noise spectra
+	** noiseSpectra: using analytic beam
+
+get noise spectra
+	** noiseSpectra: using analytic beam
+
+get noise spectra
+	** noiseSpectra: using analytic beam
+
+get noise spectra
+	** noiseSpectra: using analytic beam
+
+get noise spectra
+	** noiseSpectra: using analytic beam
+
+get noise spectra
+	** noiseSpectra: using analytic beam
+
+get noise spectra
+	** noiseSpectra: using analytic beam
+Node 0 working on experiment 0
+
+		Executing CLASS with CLASS_delens/./class ./CLASS_delens/data/Node_0/input/fisher_8p_0.ini
+#####
+
+  getting deriv w.r.t. omega_c_h2
+
+		Executing CLASS with CLASS_delens/./class ./CLASS_delens/data/Node_0/input/fisher_8p_0.ini
+
+		Executing CLASS with CLASS_delens/./class ./CLASS_delens/data/Node_0/input/fisher_8p_0.ini
+#####
+
+  getting deriv w.r.t. omega_b_h2
+
+		Executing CLASS with CLASS_delens/./class ./CLASS_delens/data/Node_0/input/fisher_8p_0.ini
+
+		Executing CLASS with CLASS_delens/./class ./CLASS_delens/data/Node_0/input/fisher_8p_0.ini
+#####
+
+  getting deriv w.r.t. N_eff
+
+		Executing CLASS with CLASS_delens/./class ./CLASS_delens/data/Node_0/input/fisher_8p_0.ini
+
+		Executing CLASS with CLASS_delens/./class ./CLASS_delens/data/Node_0/input/fisher_8p_0.ini
+#####
+
+  getting deriv w.r.t. A_s
+
+		Executing CLASS with CLASS_delens/./class ./CLASS_delens/data/Node_0/input/fisher_8p_0.ini
+
+		Executing CLASS with CLASS_delens/./class ./CLASS_delens/data/Node_0/input/fisher_8p_0.ini
+#####
+
+  getting deriv w.r.t. n_s
+
+		Executing CLASS with CLASS_delens/./class ./CLASS_delens/data/Node_0/input/fisher_8p_0.ini
+
+		Executing CLASS with CLASS_delens/./class ./CLASS_delens/data/Node_0/input/fisher_8p_0.ini
+#####
+
+  getting deriv w.r.t. tau
+
+		Executing CLASS with CLASS_delens/./class ./CLASS_delens/data/Node_0/input/fisher_8p_0.ini
+
+		Executing CLASS with CLASS_delens/./class ./CLASS_delens/data/Node_0/input/fisher_8p_0.ini
+#####
+
+  getting deriv w.r.t. theta_s
+
+		Executing CLASS with CLASS_delens/./class ./CLASS_delens/data/Node_0/input/fisher_8p_0.ini
+
+		Executing CLASS with CLASS_delens/./class ./CLASS_delens/data/Node_0/input/fisher_8p_0.ini
+#####
+
+  getting deriv w.r.t. mnu
+
+		Executing CLASS with CLASS_delens/./class ./CLASS_delens/data/Node_0/input/fisher_8p_0.ini
+
+		Executing CLASS with CLASS_delens/./class ./CLASS_delens/data/Node_0/input/fisher_8p_0.ini
+Using ellsToUse passed by user.
+Node 0 finished all experiments
+Node 0 saving data
+
+
+Node 0 saving data complete. Check results/20210506_with202102designtoolinputforpySM3sims_sedscalingfordust/s4_so_joint_configs//s4deepv3r025/s4deepv3r025_ilc_galaxy0_27-39-93-145-225-278_TT-EE_for6years.npy
+
+
+	total time take = 11.596 minutes
+
+
+		Already complete. Check results/20210506_with202102designtoolinputforpySM3sims_sedscalingfordust/s4_so_joint_configs//s4deepv3r025/s4deepv3r025_ilc_galaxy0_27-39-93-145-225-278_TT-EE_for7years.npy
+
+
+
+
+		Already complete. Check results/20210506_with202102designtoolinputforpySM3sims_sedscalingfordust/s4_so_joint_configs//s4deepv3r025/s4deepv3r025_ilc_galaxy0_27-39-93-145-225-278_TT-EE_for8years.npy
+
+
+Calculating cmb temperature noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_temp_noise.dat  
+Calculating cmb polariztion noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_pol_noise.dat  
+Will calculate lensing reconstruction noise spectra estimate from lensed CMB spectra a la astro-ph/0301031.
+Using CMB spectra calculated by CLASS.
+Using *lensed* CMB spectra calculated by CLASS.
+Done calculating lensing.
+Calculating the delensed spectra.
+[DEBUG] (Total) convergence ratio: multipole(l)-sum of (N_l[i+1]-N_l[i])/N_l[i]=0.000000e+00 for iteration i=0
+[DEBUG] N_l is minimum-variance lensing noise reconstruction spectrum
+[DEBUG] (Total) convergence ratio: multipole(l)-sum of (N_l[i+1]-N_l[i])/N_l[i]=4.311987e+03 for iteration i=1
+[DEBUG] (Total) convergence ratio: multipole(l)-sum of (N_l[i+1]-N_l[i])/N_l[i]=1.076765e+03 for iteration i=2
+[DEBUG] (Total) convergence ratio: multipole(l)-sum of (N_l[i+1]-N_l[i])/N_l[i]=3.201444e+02 for iteration i=3
+[DEBUG] (Total) convergence ratio: multipole(l)-sum of (N_l[i+1]-N_l[i])/N_l[i]=9.795717e+01 for iteration i=4
+[DEBUG] (Total) convergence ratio: multipole(l)-sum of (N_l[i+1]-N_l[i])/N_l[i]=3.019913e+01 for iteration i=5
+[DEBUG] (Total) convergence ratio: multipole(l)-sum of (N_l[i+1]-N_l[i])/N_l[i]=9.331316e+00 for iteration i=6
+[DEBUG] (Total) convergence ratio: multipole(l)-sum of (N_l[i+1]-N_l[i])/N_l[i]=2.885349e+00 for iteration i=7
+[DEBUG] (Total) convergence ratio: multipole(l)-sum of (N_l[i+1]-N_l[i])/N_l[i]=8.923782e-01 for iteration i=8
+[DEBUG] (Total) convergence ratio: multipole(l)-sum of (N_l[i+1]-N_l[i])/N_l[i]=2.760127e-01 for iteration i=9
+[DEBUG] (Total) convergence ratio: multipole(l)-sum of (N_l[i+1]-N_l[i])/N_l[i]=8.537257e-02 for iteration i=10
+[DEBUG] (Total) convergence ratio: multipole(l)-sum of (N_l[i+1]-N_l[i])/N_l[i]=2.640648e-02 for iteration i=11
+[DEBUG] (Total) convergence ratio: multipole(l)-sum of (N_l[i+1]-N_l[i])/N_l[i]=8.167783e-03 for iteration i=12
+[DEBUG] (Total) convergence ratio: multipole(l)-sum of (N_l[i+1]-N_l[i])/N_l[i]=2.526372e-03 for iteration i=13
+[DEBUG] (Total) convergence ratio: multipole(l)-sum of (N_l[i+1]-N_l[i])/N_l[i]=7.814315e-04 for iteration i=14
+[DEBUG] (Total) convergence ratio: multipole(l)-sum of (N_l[i+1]-N_l[i])/N_l[i]=2.416849e-04 for iteration i=15
+[DEBUG] (Total) convergence ratio: multipole(l)-sum of (N_l[i+1]-N_l[i])/N_l[i]=7.476668e-05 for iteration i=16
+[DEBUG] (Total) convergence ratio: multipole(l)-sum of (N_l[i+1]-N_l[i])/N_l[i]=2.312448e-05 for iteration i=17
+[DEBUG] (Total) convergence ratio: multipole(l)-sum of (N_l[i+1]-N_l[i])/N_l[i]=7.146168e-06 for iteration i=18
+Calculating cmb temperature noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_temp_noise.dat  
+Calculating cmb polariztion noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_pol_noise.dat  
+Calculating lensing reconstruction noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_defl_noise.dat  
+Using CMB spectra calculated by CLASS.
+Using *lensed* CMB spectra calculated by CLASS.
+Done calculating lensing.
+Calculating the delensed spectra.
+[DEBUG] (Total) convergence ratio: multipole(l)-sum of (N_l[i+1]-N_l[i])/N_l[i]=0.000000e+00 for iteration i=0
+[DEBUG] N_l is minimum-variance lensing noise reconstruction spectrum
+Calculating cmb temperature noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_temp_noise.dat  
+Calculating cmb polariztion noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_pol_noise.dat  
+Calculating lensing reconstruction noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_defl_noise.dat  
+Using CMB spectra calculated by CLASS.
+Using *lensed* CMB spectra calculated by CLASS.
+Done calculating lensing.
+Calculating the delensed spectra.
+[DEBUG] (Total) convergence ratio: multipole(l)-sum of (N_l[i+1]-N_l[i])/N_l[i]=0.000000e+00 for iteration i=0
+[DEBUG] N_l is minimum-variance lensing noise reconstruction spectrum
+Calculating cmb temperature noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_temp_noise.dat  
+Calculating cmb polariztion noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_pol_noise.dat  
+Calculating lensing reconstruction noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_defl_noise.dat  
+Using CMB spectra calculated by CLASS.
+Using *lensed* CMB spectra calculated by CLASS.
+Done calculating lensing.
+Calculating the delensed spectra.
+[DEBUG] (Total) convergence ratio: multipole(l)-sum of (N_l[i+1]-N_l[i])/N_l[i]=0.000000e+00 for iteration i=0
+[DEBUG] N_l is minimum-variance lensing noise reconstruction spectrum
+Calculating cmb temperature noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_temp_noise.dat  
+Calculating cmb polariztion noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_pol_noise.dat  
+Calculating lensing reconstruction noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_defl_noise.dat  
+Using CMB spectra calculated by CLASS.
+Using *lensed* CMB spectra calculated by CLASS.
+Done calculating lensing.
+Calculating the delensed spectra.
+[DEBUG] (Total) convergence ratio: multipole(l)-sum of (N_l[i+1]-N_l[i])/N_l[i]=0.000000e+00 for iteration i=0
+[DEBUG] N_l is minimum-variance lensing noise reconstruction spectrum
+Calculating cmb temperature noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_temp_noise.dat  
+Calculating cmb polariztion noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_pol_noise.dat  
+Calculating lensing reconstruction noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_defl_noise.dat  
+Using CMB spectra calculated by CLASS.
+Using *lensed* CMB spectra calculated by CLASS.
+Done calculating lensing.
+Calculating the delensed spectra.
+[DEBUG] (Total) convergence ratio: multipole(l)-sum of (N_l[i+1]-N_l[i])/N_l[i]=0.000000e+00 for iteration i=0
+[DEBUG] N_l is minimum-variance lensing noise reconstruction spectrum
+Calculating cmb temperature noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_temp_noise.dat  
+Calculating cmb polariztion noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_pol_noise.dat  
+Calculating lensing reconstruction noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_defl_noise.dat  
+Using CMB spectra calculated by CLASS.
+Using *lensed* CMB spectra calculated by CLASS.
+Done calculating lensing.
+Calculating the delensed spectra.
+[DEBUG] (Total) convergence ratio: multipole(l)-sum of (N_l[i+1]-N_l[i])/N_l[i]=0.000000e+00 for iteration i=0
+[DEBUG] N_l is minimum-variance lensing noise reconstruction spectrum
+Calculating cmb temperature noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_temp_noise.dat  
+Calculating cmb polariztion noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_pol_noise.dat  
+Calculating lensing reconstruction noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_defl_noise.dat  
+Using CMB spectra calculated by CLASS.
+Using *lensed* CMB spectra calculated by CLASS.
+Done calculating lensing.
+Calculating the delensed spectra.
+[DEBUG] (Total) convergence ratio: multipole(l)-sum of (N_l[i+1]-N_l[i])/N_l[i]=0.000000e+00 for iteration i=0
+[DEBUG] N_l is minimum-variance lensing noise reconstruction spectrum
+Calculating cmb temperature noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_temp_noise.dat  
+Calculating cmb polariztion noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_pol_noise.dat  
+Calculating lensing reconstruction noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_defl_noise.dat  
+Using CMB spectra calculated by CLASS.
+Using *lensed* CMB spectra calculated by CLASS.
+Done calculating lensing.
+Calculating the delensed spectra.
+[DEBUG] (Total) convergence ratio: multipole(l)-sum of (N_l[i+1]-N_l[i])/N_l[i]=0.000000e+00 for iteration i=0
+[DEBUG] N_l is minimum-variance lensing noise reconstruction spectrum
+Calculating cmb temperature noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_temp_noise.dat  
+Calculating cmb polariztion noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_pol_noise.dat  
+Calculating lensing reconstruction noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_defl_noise.dat  
+Using CMB spectra calculated by CLASS.
+Using *lensed* CMB spectra calculated by CLASS.
+Done calculating lensing.
+Calculating the delensed spectra.
+[DEBUG] (Total) convergence ratio: multipole(l)-sum of (N_l[i+1]-N_l[i])/N_l[i]=0.000000e+00 for iteration i=0
+[DEBUG] N_l is minimum-variance lensing noise reconstruction spectrum
+Calculating cmb temperature noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_temp_noise.dat  
+Calculating cmb polariztion noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_pol_noise.dat  
+Calculating lensing reconstruction noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_defl_noise.dat  
+Using CMB spectra calculated by CLASS.
+Using *lensed* CMB spectra calculated by CLASS.
+Done calculating lensing.
+Calculating the delensed spectra.
+[DEBUG] (Total) convergence ratio: multipole(l)-sum of (N_l[i+1]-N_l[i])/N_l[i]=0.000000e+00 for iteration i=0
+[DEBUG] N_l is minimum-variance lensing noise reconstruction spectrum
+Calculating cmb temperature noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_temp_noise.dat  
+Calculating cmb polariztion noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_pol_noise.dat  
+Calculating lensing reconstruction noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_defl_noise.dat  
+Using CMB spectra calculated by CLASS.
+Using *lensed* CMB spectra calculated by CLASS.
+Done calculating lensing.
+Calculating the delensed spectra.
+[DEBUG] (Total) convergence ratio: multipole(l)-sum of (N_l[i+1]-N_l[i])/N_l[i]=0.000000e+00 for iteration i=0
+[DEBUG] N_l is minimum-variance lensing noise reconstruction spectrum
+Calculating cmb temperature noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_temp_noise.dat  
+Calculating cmb polariztion noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_pol_noise.dat  
+Calculating lensing reconstruction noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_defl_noise.dat  
+Using CMB spectra calculated by CLASS.
+Using *lensed* CMB spectra calculated by CLASS.
+Done calculating lensing.
+Calculating the delensed spectra.
+[DEBUG] (Total) convergence ratio: multipole(l)-sum of (N_l[i+1]-N_l[i])/N_l[i]=0.000000e+00 for iteration i=0
+[DEBUG] N_l is minimum-variance lensing noise reconstruction spectrum
+Calculating cmb temperature noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_temp_noise.dat  
+Calculating cmb polariztion noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_pol_noise.dat  
+Calculating lensing reconstruction noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_defl_noise.dat  
+Using CMB spectra calculated by CLASS.
+Using *lensed* CMB spectra calculated by CLASS.
+Done calculating lensing.
+Calculating the delensed spectra.
+[DEBUG] (Total) convergence ratio: multipole(l)-sum of (N_l[i+1]-N_l[i])/N_l[i]=0.000000e+00 for iteration i=0
+[DEBUG] N_l is minimum-variance lensing noise reconstruction spectrum
+Calculating cmb temperature noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_temp_noise.dat  
+Calculating cmb polariztion noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_pol_noise.dat  
+Calculating lensing reconstruction noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_defl_noise.dat  
+Using CMB spectra calculated by CLASS.
+Using *lensed* CMB spectra calculated by CLASS.
+Done calculating lensing.
+Calculating the delensed spectra.
+[DEBUG] (Total) convergence ratio: multipole(l)-sum of (N_l[i+1]-N_l[i])/N_l[i]=0.000000e+00 for iteration i=0
+[DEBUG] N_l is minimum-variance lensing noise reconstruction spectrum
+Calculating cmb temperature noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_temp_noise.dat  
+Calculating cmb polariztion noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_pol_noise.dat  
+Calculating lensing reconstruction noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_defl_noise.dat  
+Using CMB spectra calculated by CLASS.
+Using *lensed* CMB spectra calculated by CLASS.
+Done calculating lensing.
+Calculating the delensed spectra.
+[DEBUG] (Total) convergence ratio: multipole(l)-sum of (N_l[i+1]-N_l[i])/N_l[i]=0.000000e+00 for iteration i=0
+[DEBUG] N_l is minimum-variance lensing noise reconstruction spectrum
+Calculating cmb temperature noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_temp_noise.dat  
+Calculating cmb polariztion noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_pol_noise.dat  
+Calculating lensing reconstruction noise spectra from external data file.
+ -> running: cat ./CLASS_delens/data/Node_0/input/fisher_8p_0_defl_noise.dat  
+Using CMB spectra calculated by CLASS.
+Using *lensed* CMB spectra calculated by CLASS.
+Done calculating lensing.
+Calculating the delensed spectra.
+[DEBUG] (Total) convergence ratio: multipole(l)-sum of (N_l[i+1]-N_l[i])/N_l[i]=0.000000e+00 for iteration i=0
+[DEBUG] N_l is minimum-variance lensing noise reconstruction spectrum
+/projects/caps/srinirag/git/CMB-S4_DRAFT/fisherTools.py:172: RuntimeWarning: divide by zero encountered in true_divide
+  runningTotal += 1/cmbNoiseSpectra[f][polComb]
+get_fisher_withdelensing.py:258: RuntimeWarning: divide by zero encountered in true_divide
+  runningTotal += 1/cmbNoiseSpectra[k][polComb]
+get_fisher_withdelensing.py:260: RuntimeWarning: divide by zero encountered in true_divide
+  runningTotal += 1/planckNoise[polComb]
+
+get noise spectra
+	** noiseSpectra: using analytic beam
+
+get noise spectra
+	** noiseSpectra: using analytic beam
+
+get noise spectra
+	** noiseSpectra: using analytic beam
+
+get noise spectra
+	** noiseSpectra: using analytic beam
+
+get noise spectra
+	** noiseSpectra: using analytic beam
+
+get noise spectra
+	** noiseSpectra: using analytic beam
+
+get noise spectra
+	** noiseSpectra: using analytic beam
+Node 0 working on experiment 0
+
+		Executing CLASS with CLASS_delens/./class ./CLASS_delens/data/Node_0/input/fisher_8p_0.ini
+#####
+
+  getting deriv w.r.t. omega_c_h2
+
+		Executing CLASS with CLASS_delens/./class ./CLASS_delens/data/Node_0/input/fisher_8p_0.ini
+
+		Executing CLASS with CLASS_delens/./class ./CLASS_delens/data/Node_0/input/fisher_8p_0.ini
+#####
+
+  getting deriv w.r.t. omega_b_h2
+
+		Executing CLASS with CLASS_delens/./class ./CLASS_delens/data/Node_0/input/fisher_8p_0.ini
+
+		Executing CLASS with CLASS_delens/./class ./CLASS_delens/data/Node_0/input/fisher_8p_0.ini
+#####
+
+  getting deriv w.r.t. N_eff
+
+		Executing CLASS with CLASS_delens/./class ./CLASS_delens/data/Node_0/input/fisher_8p_0.ini
+
+		Executing CLASS with CLASS_delens/./class ./CLASS_delens/data/Node_0/input/fisher_8p_0.ini
+#####
+
+  getting deriv w.r.t. A_s
+
+		Executing CLASS with CLASS_delens/./class ./CLASS_delens/data/Node_0/input/fisher_8p_0.ini
+
+		Executing CLASS with CLASS_delens/./class ./CLASS_delens/data/Node_0/input/fisher_8p_0.ini
+#####
+
+  getting deriv w.r.t. n_s
+
+		Executing CLASS with CLASS_delens/./class ./CLASS_delens/data/Node_0/input/fisher_8p_0.ini
+
+		Executing CLASS with CLASS_delens/./class ./CLASS_delens/data/Node_0/input/fisher_8p_0.ini
+#####
+
+  getting deriv w.r.t. tau
+
+		Executing CLASS with CLASS_delens/./class ./CLASS_delens/data/Node_0/input/fisher_8p_0.ini
+
+		Executing CLASS with CLASS_delens/./class ./CLASS_delens/data/Node_0/input/fisher_8p_0.ini
+#####
+
+  getting deriv w.r.t. theta_s
+
+		Executing CLASS with CLASS_delens/./class ./CLASS_delens/data/Node_0/input/fisher_8p_0.ini
+
+		Executing CLASS with CLASS_delens/./class ./CLASS_delens/data/Node_0/input/fisher_8p_0.ini
+#####
+
+  getting deriv w.r.t. mnu
+
+		Executing CLASS with CLASS_delens/./class ./CLASS_delens/data/Node_0/input/fisher_8p_0.ini
+
+		Executing CLASS with CLASS_delens/./class ./CLASS_delens/data/Node_0/input/fisher_8p_0.ini
+Using ellsToUse passed by user.
+Node 0 finished all experiments
+Node 0 saving data
+
+
+Node 0 saving data complete. Check results/20210506_with202102designtoolinputforpySM3sims_sedscalingfordust/s4_so_joint_configs//s4deepv3r025/s4deepv3r025_ilc_galaxy0_27-39-93-145-225-278_TT-EE_for9years.npy
+
+
+	total time take = 11.798 minutes
