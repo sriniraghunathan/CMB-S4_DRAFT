@@ -138,10 +138,10 @@ for TP in TParr:
 if show_plots:#get beam deconvolved noise nls 
     ax = subplot(111, yscale = 'log')
     for freq in freqarr:
-        beamval, noiseval = beam_noise_dic[TP][freq]
-        if noiseval == 1e-10: continue
         for TP in TParr:
-            if TP == 'P':
+            beamval, noiseval = beam_noise_dic[TP][freq]
+            if noiseval == 1e-10: continue
+            if TP == 'T':
                 labval = r'%s: %s$^{\prime}$, %.2f uK-arcmin' %(freq, beamval, noiseval)
                 lsval = '-'
             else:
@@ -152,7 +152,8 @@ if show_plots:#get beam deconvolved noise nls
     plot([], [], 'k--', label = r'P')
     legend(loc = 1, fontsize = 8, ncol = 2)
     xlabel(r'Multipole $\ell$'); ylabel(r'N$_{\ell}$ [$\mu$K$^{2}$]')
-    show()
+    title(r'%s' %(expname.replace('_','\_')))
+    show(); sys.exit()
 
 
 # ## get Gaussian beam B_{\ell}
