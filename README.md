@@ -27,15 +27,21 @@ https://github.com/selimhotinli/class_delens (9944e0ec5f0b734b178436a8652b186046
   * Selim C. Hotinli, Joel Meyers, Cynthia Trendafilova, Daniel Green, Alexander van Engelen
 ---------
 
-Steps to run the code:
+Cloning/CLASS installation:
 ===============================================
  ### Cloning:
   1. Clone the repo first: ```git clone git@github.com:sriniraghunathan/CMB-S4_DRAFT.git```
   2. list the submodules: ```git submodule```. This will show the ```CLASS_delens``` and the specific commit ```9944e0ec5f0b734b178436a8652b186046f63fdb```
   3. pull the submodule: ```git submodule update --init --recursive```
- ### CLASS installation
+ ### CLASS installation:
   1. Install CLASS: ```cd CLASS_delens; make class```
   2. Ensure CLASS is working properly by running the following document within the ```CLASS_delens``` folder: ```./class explanatory.ini```
+---------
+
+Steps to run the code:
+===============================================
+ 1. 
+
 ---------
 
 Contributors:
