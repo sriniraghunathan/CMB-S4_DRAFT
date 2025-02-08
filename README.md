@@ -40,7 +40,8 @@ Cloning/CLASS installation:
 
 Steps to run the code:
 ===============================================
- 1. 
+ 1. [ilc code example notebook](https://github.com/sriniraghunathan/CMB-S4_DRAFT/blob/main/get_ilc_weights_and_residuals.ipynb)
+ 2. 
 
 ---------
 
