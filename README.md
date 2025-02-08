@@ -14,7 +14,7 @@ Overview:
 * Estimates biases in cosmological parameters due to residual foregrounds also using Fisher formalism.
   * References: Huterer & Takada 2004, arXiv: [0412142](https://arxiv.org/abs/astro-ph/0412142); Loverde, Hui, & Gaztanaga 2006, arXiv: [0611539](https://arxiv.org/abs/astro-ph/0611539); Amara & Réfrégier 2007, arXiv: [0710.5171](https://arxiv.org/abs/0710.5171).
 
-Dependencies:
+Sub-modules and Dependencies:
 ===============================================
 1. CLASS_delens
 https://github.com/selimhotinli/class_delens
