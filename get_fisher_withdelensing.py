@@ -12,7 +12,14 @@ parser.add_argument('-lmax_T_lensing', dest='lmax_T_lensing', action='store', he
 parser.add_argument('-lmax_P_lensing', dest='lmax_P_lensing', action='store', help='CMB lmax for P-based lensing', type=int, default=3000)
 parser.add_argument('-lbuffer', dest='lbuffer', action='store', help='lbuffer for non-Gaussian stuffs', type=int, default=0)
 parser.add_argument('-delta_l_max', dest='delta_l_max', action='store', help='delta_l_max for non-Gaussian stuffs', type=int, default=0)
-parser.add_argument('-ilc_fname', dest='ilc_fname', action='store', help='ilc_fname', type=str, default='ilc_outputs/s4deepv3r025_ilc_galaxy1_27-39-93-145-225-278_TT-EE_galmask5_AZ_for7years.npy')
+parser.add_argument('-ilc_fname', dest='ilc_fname', action='store', help='ilc_fname', type=str, default='ilc_outputs/s4wide_ilcresidualsforcmb_TT-EE_lmax5000.npy')
+
+#output filename
+parser.add_argument('-opfname', dest='opfname', action='store', help='opfname', type=str, default=None)
+
+# Flags for whether to include NonGaussian covariances, and derivatives wrt unlensed spectra
+parser.add_argument('-doNonGaussian', dest='doNonGaussian', action='store', help='doNonGaussian', type=bool, default=False)
+parser.add_argument('-includeUnlensedSpectraDerivatives', dest='includeUnlensedSpectraDerivatives', action='store', help='includeUnlensedSpectraDerivatives', type=bool, default=False)
 
 args = parser.parse_args()
 args_keys = args.__dict__
@@ -138,10 +145,6 @@ paramDerivStack_lensed = dict()
 fisherGaussian = dict()
 fisherNonGaussian_delensed = dict()
 fisherNonGaussian_lensed = dict()
-
-# Flags for whether to include NonGaussian covariances, and derivatives wrt unlensed spectra
-doNonGaussian = False #True
-includeUnlensedSpectraDerivatives = False #True
 
 # Calculations begin
 
@@ -380,10 +383,18 @@ if doNonGaussian:
 
 print('Node ' + str(rank) + ' saving data')
 
-filename = classDataDirThisNode + fileBaseThisNode + '.pkl'
+if opfname is None:
+    filename = classDataDirThisNode + fileBaseThisNode + '.npy'
+else:
+    filename = opfname
+'''    
 delensedOutput = open(filename, 'wb')
 pickle.dump(forecastData, delensedOutput, -1)
 delensedOutput.close()
+'''    
+forecastData['cosmoFid'] = cosmoFid
+forecastData['cosmoParams'] = cosmoParams
+numpy.save(filename, forecastData)
 print('Node ' + str(rank) + ' saving data complete')
 end = time.time()
 print('\n\n\ttotal time take = %.3f minutes' %((end-start)/60.))
