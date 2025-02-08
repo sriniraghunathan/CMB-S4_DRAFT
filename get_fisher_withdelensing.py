@@ -9,7 +9,7 @@ parser.add_argument('-lmin', dest='lmin', action='store', help='lmin', type=int,
 parser.add_argument('-lmax', dest='lmax', action='store', help='lmax', type=int, default=5000)
 parser.add_argument('-lmaxTT', dest='lmaxTT', action='store', help='lmaxTT for TT Fisher', type=int, default=5000)
 parser.add_argument('-lmax_T_lensing', dest='lmax_T_lensing', action='store', help='CMB lmax for T-based lensing', type=int, default=3000)
-parser.add_argument('-lmax_P_lensing', dest='lmax_P_lensing', action='store', help='CMB lmax for P-based lensing', type=int, default=3000)
+parser.add_argument('-lmax_P_lensing', dest='lmax_P_lensing', action='store', help='CMB lmax for P-based lensing', type=int, default=5000)
 parser.add_argument('-lbuffer', dest='lbuffer', action='store', help='lbuffer for non-Gaussian stuffs', type=int, default=0)
 parser.add_argument('-delta_l_max', dest='delta_l_max', action='store', help='delta_l_max for non-Gaussian stuffs', type=int, default=0)
 parser.add_argument('-ilc_fname', dest='ilc_fname', action='store', help='ilc_fname', type=str, default='ilc_outputs/s4wide_ilcresidualsforcmb_TT-EE_lmax5000.npy')
@@ -31,6 +31,9 @@ for kargs in args_keys:
         cmd = '%s = %s' %(kargs, param_value)
     exec(cmd)
 
+if opfname is not None and os.path.exists(opfname):
+    print('\n\n\t\tAlready complete. Check %s\n\n' %(opfname))
+    sys.exit()
 start = time.time()
 #MPI
 '''
@@ -387,6 +390,8 @@ if opfname is None:
     filename = classDataDirThisNode + fileBaseThisNode + '.npy'
 else:
     filename = opfname
+    opfd = '/'.join( opfname.split('/')[:-1] )
+    if not os.path.exists( opfd ): os.system('mkdir -p %s' %(opfd))
 '''    
 delensedOutput = open(filename, 'wb')
 pickle.dump(forecastData, delensedOutput, -1)
@@ -394,8 +399,8 @@ delensedOutput.close()
 '''    
 forecastData['cosmoFid'] = cosmoFid
 forecastData['cosmoParams'] = cosmoParams
+print('\n\nNode ' + str(rank) + ' saving data complete. Check %s' %(filename)); #sys.exit()
 numpy.save(filename, forecastData)
-print('Node ' + str(rank) + ' saving data complete')
 end = time.time()
 print('\n\n\ttotal time take = %.3f minutes' %((end-start)/60.))
 sys.exit()
