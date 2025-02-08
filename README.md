@@ -14,24 +14,28 @@ Overview:
 * Estimates biases in cosmological parameters due to residual foregrounds also using Fisher formalism.
   * References: Huterer & Takada 2004, arXiv: [0412142](https://arxiv.org/abs/astro-ph/0412142); Loverde, Hui, & Gaztanaga 2006, arXiv: [0611539](https://arxiv.org/abs/astro-ph/0611539); Amara & Réfrégier 2007, arXiv: [0710.5171](https://arxiv.org/abs/0710.5171).
 
-Contributors:
-=============================================== 
-[_Joel_ **Meyers**](https://joelmeyers.github.io/), [_Cynthia_ **Trendafilova**](https://github.com/ctrendafilova), and [_Benjamin_ **Wallisch**](https://www.ias.edu/scholars/benjamin-wallisch).
-
 Sub-modules and Dependencies:
 ===============================================
 1. CLASS_delens
-https://github.com/selimhotinli/class_delens
+https://github.com/selimhotinli/class_delens (9944e0ec5f0b734b178436a8652b186046f63fdb)
+ 
+  This code uses a wrapper for the CLASS_delens code to facilitate Fisher forecasting of cosmological parameter constraints from CMB spectra.
 
-This code uses a wrapper for the CLASS_delens code to facilitate Fisher forecasting of cosmological parameter constraints from CMB spectra.
+  Authors: Selim C. Hotinli, Joel Meyers, Cynthia Trendafilova, Daniel Green, Alexander van Engelen
 
-Authors: Selim C. Hotinli, Joel Meyers, Cynthia Trendafilova, Daniel Green, Alexander van Engelen
+Steps to run the code:
+===============================================
+ ### Cloning:
+  1. Clone the repo first: ```git clone git@github.com:sriniraghunathan/CMB-S4_DRAFT.git```
+  2. list the submodules: ```git submodule```. This will show the ```CLASS_delens``` and the specific commit ```9944e0ec5f0b734b178436a8652b186046f63fdb```
+  3. pull the submodule: ```git submodule update --init --recursive```
+ ### CLASS installation
+  1. Install CLASS: ```cd CLASS_delens; make class```
+  2. Ensure CLASS is working properly by running the following document within the ```CLASS_delens``` folder: ```./class explanatory.ini```
 
-2. xxxx
-
-3. yyyy
-
-
+Contributors:
+=============================================== 
+[_Joel_ **Meyers**](https://joelmeyers.github.io/), [_Cynthia_ **Trendafilova**](https://github.com/ctrendafilova), and [_Benjamin_ **Wallisch**](https://www.ias.edu/scholars/benjamin-wallisch).
 
 CMB-S4 instrument/noise specs:
 ===============================================
