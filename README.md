@@ -7,11 +7,12 @@ Overview:
 ===============================================
 * Optimally combines data from different bands using noise + foreground signals in different bands.
   * Supports standard / constrained / partial internal linear combinations.
-* Computes lensing noise curves using residual noise **(yet to be integrated into this repo)**.
-* Combines delensed CMB spectra **(yet to be integrated into this repo)** and lensing spectra to forecast cosmological parameter constraints using Fisher formalism.
+* Computes lensing noise curves using residual noise.
+* Combines delensed CMB spectra and lensing spectra to forecast cosmological parameter constraints using Fisher formalism.
   * Delensing reference: Green, Meyers, van Engelen 2016, arXiv: [1609.08143](https://arxiv.org/abs/1609.08143).
-  * [Fisher code repo](https://github.com/sriniraghunathan/cmbs4_fisher_forecasting) **(yet to be integrated into this repo)**.
-* Estimates biases in cosmological parameters due to residual foregrounds also using Fisher formalism.
+  * Delensing + Fisher code reference: Hotinli, Meyers, Trendafilova, Green, van Engelen 2021, arXiv: [2111.15036](https://arxiv.org/abs/2111.15036).
+  * [Fisher code repo](https://github.com/sriniraghunathan/cmbs4_fisher_forecasting).
+* Estimates biases in cosmological parameters due to residual foregrounds also using Fisher formalism **(yet to be integrated into this repo)**.
   * References: Huterer & Takada 2004, arXiv: [0412142](https://arxiv.org/abs/astro-ph/0412142); Loverde, Hui, & Gaztanaga 2006, arXiv: [0611539](https://arxiv.org/abs/astro-ph/0611539); Amara & Réfrégier 2007, arXiv: [0710.5171](https://arxiv.org/abs/0710.5171).
 
 Sub-modules and Dependencies:
